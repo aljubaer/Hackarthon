@@ -8,21 +8,14 @@ import androidx.room.PrimaryKey;
 import com.example.agriapp_t.data.model.CropVariety;
 import com.example.agriapp_t.data.model.Nutrient;
 
-@Entity(tableName = "soil_analysis_table",
-        foreignKeys = {
-                    @ForeignKey(
-                            entity = Nutrient.class,
-                            parentColumns = "symbol",
-                            childColumns = "nutrient"
-                    )
-        })
+@Entity(tableName = "soil_analysis_table")
 public class SoilAnalysisTable {
 
     @PrimaryKey(autoGenerate = true)
     private int id;
 
-    @ColumnInfo(name = "variety_class")
-    private String varietyClass;
+    @ColumnInfo(name = "unique_id")
+    private int uniqueId;
 
     @ColumnInfo(name = "nutrient")
     private String nutrient;
@@ -39,13 +32,13 @@ public class SoilAnalysisTable {
     @ColumnInfo(name = "interval")
     private double analysisNutrientInterval;
 
-    public SoilAnalysisTable(String varietyClass,
+    public SoilAnalysisTable(int uniqueId,
                              String nutrient,
                              String analysisNutrientStatus,
                              double analysisNutrientLowerLimit,
                              double analysisNutrientUpperLimit,
                              double analysisNutrientInterval) {
-        this.varietyClass = varietyClass;
+        this.uniqueId = uniqueId;
         this.nutrient = nutrient;
         this.analysisNutrientStatus = analysisNutrientStatus;
         this.analysisNutrientLowerLimit = analysisNutrientLowerLimit;
@@ -57,8 +50,12 @@ public class SoilAnalysisTable {
         return id;
     }
 
-    public String getVarietyClass() {
-        return varietyClass;
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getUniqueId() {
+        return uniqueId;
     }
 
     public String getNutrient() {
@@ -81,7 +78,4 @@ public class SoilAnalysisTable {
         return analysisNutrientInterval;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
 }

@@ -7,14 +7,7 @@ import androidx.room.PrimaryKey;
 
 import com.example.agriapp_t.data.model.Nutrient;
 
-@Entity(tableName = "soil_test_table",
-        foreignKeys = {
-                @ForeignKey(
-                        entity = Nutrient.class,
-                        parentColumns = "symbol",
-                        childColumns = "nutrient"
-                )
-        })
+@Entity(tableName = "soil_test_table")
 public class SoilTestTable {
 
     @PrimaryKey(autoGenerate = true)

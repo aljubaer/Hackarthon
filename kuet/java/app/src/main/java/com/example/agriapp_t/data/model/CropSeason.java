@@ -5,32 +5,36 @@ import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
+import org.jetbrains.annotations.NotNull;
+
 @Entity(tableName = "crop_season")
 public class CropSeason {
 
-    @PrimaryKey
-    @NonNull
+    @PrimaryKey(autoGenerate = true)
+    public int id;
+
     @ColumnInfo(name = "season")
     private String cropSeason;
 
-    @ColumnInfo(name = "crop_name")
-    private String cropName;
+    @ColumnInfo(name = "crop_group")
+    private String cropGroup;
 
     @ColumnInfo(name = "crop_land_type")
     private String cropLandType;
 
-    public CropSeason(String cropSeason, String cropName, String cropLandType) {
+    public CropSeason(String cropGroup, @NotNull String cropSeason, String cropLandType) {
         this.cropSeason = cropSeason;
-        this.cropName = cropName;
+        this.cropGroup = cropGroup;
         this.cropLandType = cropLandType;
     }
 
+    @NotNull
     public String getCropSeason() {
         return cropSeason;
     }
 
-    public String getCropName() {
-        return cropName;
+    public String getCropGroup() {
+        return cropGroup;
     }
 
     public String getCropLandType() {

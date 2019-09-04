@@ -9,11 +9,24 @@ import com.example.agriapp_t.data.database.Database;
 import com.example.agriapp_t.data.model.Crop;
 
 import java.util.List;
+import java.util.concurrent.Executors;
 
 public class CropRepository {
-
+    Database database;
     public CropRepository (Application application) {
-        Database database = Database.getInstance(application);
+         database = Database.getInstance(application);
+    }
+
+    public void test () {
+        Executors.newSingleThreadExecutor().execute(new Runnable() {
+            @Override
+            public void run() {
+                List<String> allDistinctCropGroup = database.cropSeasonDao().getAllDistinctCropGroup();
+                System.out.println(allDistinctCropGroup.size() + " -> " + allDistinctCropGroup.toString());
+                List<Integer> allAnalysis = database.soilAnalysisDao().getAllAnalysis();
+                System.out.println(allAnalysis.size());
+            }
+        });
     }
 
 //    public void insert (Crop crop) {

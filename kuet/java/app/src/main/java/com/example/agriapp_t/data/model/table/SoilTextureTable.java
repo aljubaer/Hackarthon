@@ -7,7 +7,7 @@ import androidx.room.PrimaryKey;
 @Entity(tableName = "texture")
 public class SoilTextureTable {
 
-    @PrimaryKey
+    @PrimaryKey(autoGenerate = true)
     private int id;
 
     private String texture;

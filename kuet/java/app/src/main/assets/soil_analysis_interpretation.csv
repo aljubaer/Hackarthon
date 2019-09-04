@@ -157,7 +157,7 @@
 5,Mg,Very Low,0,0,0
 5,Mg,Low,0,0,0
 5,Mg,Medium,0,0,0
-5,Mg,Optimum,0,,0
+5,Mg,Optimum,0,0,0
 6,N,Very Low,0,88,22
 6,N,Low,0,66,22
 6,N,Medium,0,44,22
@@ -177,19 +177,19 @@
 6,Zn,Very Low,0,1.8,0.6
 6,Zn,Low,0,1.2,0.6
 6,Zn,Medium,0,0.6,0.6
-6,Zn,Optimum,0,,0
+6,Zn,Optimum,0,0,0
 6,B,Very Low,0,0,0
 6,B,Low,0,0,0
 6,B,Medium,0,0,0
-6,B,Optimum,0,,0
+6,B,Optimum,0,0,0
 6,Mo,Very Low,0,0,0
 6,Mo,Low,0,0,0
 6,Mo,Medium,0,0,0
-6,Mo,Optimum,0,,0
+6,Mo,Optimum,0,0,0
 6,Mg,Very Low,0,0,0
 6,Mg,Low,0,0,0
 6,Mg,Medium,0,0,0
-6,Mg,Optimum,0,,0
+6,Mg,Optimum,0,0,0
 7,N,Very Low,0,68,17
 7,N,Low,0,51,17
 7,N,Medium,0,34,17
@@ -209,19 +209,19 @@
 7,Zn,Very Low,0,1.8,0.6
 7,Zn,Low,0,1.2,0.6
 7,Zn,Medium,0,0.6,0.6
-7,Zn,Optimum,0,,0
+7,Zn,Optimum,0,0,0
 7,B,Very Low,0,0,0
 7,B,Low,0,0,0
 7,B,Medium,0,0,0
-7,B,Optimum,0,,0
+7,B,Optimum,0,0,0
 7,Mo,Very Low,0,0,0
 7,Mo,Low,0,0,0
 7,Mo,Medium,0,0,0
-7,Mo,Optimum,0,,0
+7,Mo,Optimum,0,0,0
 7,Mg,Very Low,0,0,0
 7,Mg,Low,0,0,0
 7,Mg,Medium,0,0,0
-7,Mg,Optimum,0,,0
+7,Mg,Optimum,0,0,0
 8,N,Very Low,0,40,10
 8,N,Low,0,30,10
 8,N,Medium,0,20,10
@@ -241,19 +241,19 @@
 8,Zn,Very Low,0,1.5,0.5
 8,Zn,Low,0,1,0.5
 8,Zn,Medium,0,0.5,0.5
-8,Zn,Optimum,0,,0
+8,Zn,Optimum,0,0,0
 8,B,Very Low,0,0,0
 8,B,Low,0,0,0
 8,B,Medium,0,0,0
-8,B,Optimum,0,,0
+8,B,Optimum,0,0,0
 8,Mo,Very Low,0,0,0
 8,Mo,Low,0,0,0
 8,Mo,Medium,0,0,0
-8,Mo,Optimum,0,,0
+8,Mo,Optimum,0,0,0
 8,Mg,Very Low,0,0,0
 8,Mg,Low,0,0,0
 8,Mg,Medium,0,0,0
-8,Mg,Optimum,0,,0
+8,Mg,Optimum,0,0,0
 9,N,Very Low,0,120,30
 9,N,Low,0,90,30
 9,N,Medium,0,60,30
@@ -273,19 +273,19 @@
 9,Zn,Very Low,0,2.4,0.8
 9,Zn,Low,0,1.6,0.8
 9,Zn,Medium,0,0.8,0.8
-9,Zn,Optimum,0,,0
+9,Zn,Optimum,0,0,0
 9,B,Very Low,0,0,0
 9,B,Low,0,0,0
 9,B,Medium,0,0,0
-9,B,Optimum,0,,0
+9,B,Optimum,0,0,0
 9,Mo,Very Low,0,0,0
 9,Mo,Low,0,0,0
 9,Mo,Medium,0,0,0
-9,Mo,Optimum,0,,0
+9,Mo,Optimum,0,0,0
 9,Mg,Very Low,0,0,0
 9,Mg,Low,0,0,0
 9,Mg,Medium,0,0,0
-9,Mg,Optimum,0,,0
+9,Mg,Optimum,0,0,0
 10,N,Very Low,0,96,24
 10,N,Low,0,72,24
 10,N,Medium,0,48,24
@@ -305,19 +305,19 @@
 10,Zn,Very Low,0,2.1,0.7
 10,Zn,Low,0,1.4,0.7
 10,Zn,Medium,0,0.7,0.7
-10,Zn,Optimum,0,,0
+10,Zn,Optimum,0,0,0
 10,B,Very Low,0,0,0
 10,B,Low,0,0,0
 10,B,Medium,0,0,0
-10,B,Optimum,0,,0
+10,B,Optimum,0,0,0
 10,Mo,Very Low,0,0,0
 10,Mo,Low,0,0,0
 10,Mo,Medium,0,0,0
-10,Mo,Optimum,0,,0
+10,Mo,Optimum,0,0,0
 10,Mg,Very Low,0,0,0
 10,Mg,Low,0,0,0
 10,Mg,Medium,0,0,0
-10,Mg,Optimum,0,,0
+10,Mg,Optimum,0,0,0
 11,N,Very Low,0,72,18
 11,N,Low,0,54,18
 11,N,Medium,0,36,18
@@ -337,19 +337,19 @@
 11,Zn,Very Low,0,1.8,0.6
 11,Zn,Low,0,1.2,0.6
 11,Zn,Medium,0,0.6,0.6
-11,Zn,Optimum,0,,0
+11,Zn,Optimum,0,0,0
 11,B,Very Low,0,0,0
 11,B,Low,0,0,0
 11,B,Medium,0,0,0
-11,B,Optimum,0,,0
+11,B,Optimum,0,0,0
 11,Mo,Very Low,0,0,0
 11,Mo,Low,0,0,0
 11,Mo,Medium,0,0,0
-11,Mo,Optimum,0,,0
+11,Mo,Optimum,0,0,0
 11,Mg,Very Low,0,0,0
 11,Mg,Low,0,0,0
 11,Mg,Medium,0,0,0
-11,Mg,Optimum,0,,0
+11,Mg,Optimum,0,0,0
 200,N,Very Low,0,52,13
 200,N,Low,0,39,13
 200,N,Medium,0,26,13
@@ -369,19 +369,19 @@
 200,Zn,Very Low,0,1.5,0.5
 200,Zn,Low,0,1,0.5
 200,Zn,Medium,0,0.5,0.5
-200,Zn,Optimum,0,,0
+200,Zn,Optimum,0,0,0
 200,B,Very Low,0,0,0
 200,B,Low,0,0,0
 200,B,Medium,0,0,0
-200,B,Optimum,0,,0
+200,B,Optimum,0,0,0
 200,Mo,Very Low,0,0,0
 200,Mo,Low,0,0,0
 200,Mo,Medium,0,0,0
-200,Mo,Optimum,0,,0
+200,Mo,Optimum,0,0,0
 200,Mg,Very Low,0,0,0
 200,Mg,Low,0,0,0
 200,Mg,Medium,0,0,0
-200,Mg,Optimum,0,,0
+200,Mg,Optimum,0,0,0
 12,N,Very Low,0,52,13
 12,N,Low,0,39,13
 12,N,Medium,0,26,13
@@ -405,15 +405,15 @@
 12,B,Very Low,0,0,0
 12,B,Low,0,0,0
 12,B,Medium,0,0,0
-12,B,Optimum,0,,0
+12,B,Optimum,0,0,0
 12,Mo,Very Low,0,0,0
 12,Mo,Low,0,0,0
 12,Mo,Medium,0,0,0
-12,Mo,Optimum,0,,0
+12,Mo,Optimum,0,0,0
 12,Mg,Very Low,0,0,0
 12,Mg,Low,0,0,0
 12,Mg,Medium,0,0,0
-12,Mg,Optimum,0,,0
+12,Mg,Optimum,0,0,0
 13,N,Very Low,0,52,13
 13,N,Low,0,39,13
 13,N,Medium,0,26,13
@@ -437,15 +437,15 @@
 13,B,Very Low,0,0,0
 13,B,Low,0,0,0
 13,B,Medium,0,0,0
-13,B,Optimum,0,,0
+13,B,Optimum,0,0,0
 13,Mo,Very Low,0,0,0
 13,Mo,Low,0,0,0
 13,Mo,Medium,0,0,0
-13,Mo,Optimum,0,,0
+13,Mo,Optimum,0,0,0
 13,Mg,Very Low,0,0,0
 13,Mg,Low,0,0,0
 13,Mg,Medium,0,0,0
-13,Mg,Optimum,0,,0
+13,Mg,Optimum,0,0,0
 14,N,Very Low,0,60,15
 14,N,Low,0,45,15
 14,N,Medium,0,30,15
@@ -465,19 +465,19 @@
 14,Zn,Very Low,0,1.5,0.5
 14,Zn,Low,0,1,0.5
 14,Zn,Medium,0,0.5,0.5
-14,Zn,Optimum,0,,0
+14,Zn,Optimum,0,0,0
 14,B,Very Low,0,0,0
 14,B,Low,0,0,0
 14,B,Medium,0,0,0
-14,B,Optimum,0,,0
+14,B,Optimum,0,0,0
 14,Mo,Very Low,0,0,0
 14,Mo,Low,0,0,0
 14,Mo,Medium,0,0,0
-14,Mo,Optimum,0,,0
+14,Mo,Optimum,0,0,0
 14,Mg,Very Low,0,0,0
 14,Mg,Low,0,0,0
 14,Mg,Medium,0,0,0
-14,Mg,Optimum,0,,0
+14,Mg,Optimum,0,0,0
 15,N,Very Low,0,48,12
 15,N,Low,0,36,12
 15,N,Medium,0,24,12
@@ -497,19 +497,19 @@
 15,Zn,Very Low,0,1.5,0.5
 15,Zn,Low,0,1,0.5
 15,Zn,Medium,0,0.5,0.5
-15,Zn,Optimum,0,,0
+15,Zn,Optimum,0,0,0
 15,B,Very Low,0,0,0
 15,B,Low,0,0,0
 15,B,Medium,0,0,0
-15,B,Optimum,0,,0
+15,B,Optimum,0,0,0
 15,Mo,Very Low,0,0,0
 15,Mo,Low,0,0,0
 15,Mo,Medium,0,0,0
-15,Mo,Optimum,0,,0
+15,Mo,Optimum,0,0,0
 15,Mg,Very Low,0,0,0
 15,Mg,Low,0,0,0
 15,Mg,Medium,0,0,0
-15,Mg,Optimum,0,,0
+15,Mg,Optimum,0,0,0
 16,N,Very Low,0,160,40
 16,N,Low,0,120,40
 16,N,Medium,0,80,40
@@ -529,19 +529,19 @@
 16,Zn,Very Low,0,3.9,1.3
 16,Zn,Low,0,2.6,1.3
 16,Zn,Medium,0,1.3,1.3
-16,Zn,Optimum,0,,0
+16,Zn,Optimum,0,0,0
 16,B,Very Low,0,2.1,0.7
 16,B,Low,0,1.4,0.7
 16,B,Medium,0,0.7,0.7
-16,B,Optimum,0,,0
+16,B,Optimum,0,0,0
 16,Mo,Very Low,0,0,0
 16,Mo,Low,0,0,0
 16,Mo,Medium,0,0,0
-16,Mo,Optimum,0,,0
+16,Mo,Optimum,0,0,0
 16,Mg,Very Low,0,12,4
 16,Mg,Low,0,8,4
 16,Mg,Medium,0,4,4
-16,Mg,Optimum,0,,0
+16,Mg,Optimum,0,0,0
 17,N,Very Low,0,60,15
 17,N,Low,0,45,15
 17,N,Medium,0,30,15
@@ -560,20 +560,20 @@
 17,S,Optimum,0,2.5,2.5
 17,Zn,Very Low,0,3,1.5
 17,Zn,Low,0,1.5,1.5
-17,Zn,Medium,0,,0
-17,Zn,Optimum,0,,0
+17,Zn,Medium,0,0,0
+17,Zn,Optimum,0,0,0
 17,B,Very Low,0,1.5,0.5
 17,B,Low,0,1,0.5
 17,B,Medium,0,0.5,0.5
-17,B,Optimum,0,,0
+17,B,Optimum,0,0,0
 17,Mo,Very Low,0,0,0
 17,Mo,Low,0,0,0
 17,Mo,Medium,0,0,0
-17,Mo,Optimum,0,,0
+17,Mo,Optimum,0,0,0
 17,Mg,Very Low,0,8,4
 17,Mg,Low,0,4,4
-17,Mg,Medium,0,,0
-17,Mg,Optimum,0,,0
+17,Mg,Medium,0,0,0
+17,Mg,Optimum,0,0,0
 18,N,Very Low,0,300,75
 18,N,Low,0,225,75
 18,N,Medium,0,150,75
@@ -593,15 +593,15 @@
 18,Zn,Very Low,0,6,2
 18,Zn,Low,0,4,2
 18,Zn,Medium,0,2,2
-18,Zn,Optimum,0,,0
+18,Zn,Optimum,0,0,0
 18,B,Very Low,0,2.4,0.8
 18,B,Low,0,1.6,0.8
 18,B,Medium,0,0.8,0.8
-18,B,Optimum,0,,0
+18,B,Optimum,0,0,0
 18,Mo,Very Low,0,0,0
 18,Mo,Low,0,0,0
 18,Mo,Medium,0,0,0
-18,Mo,Optimum,0,,0
+18,Mo,Optimum,0,0,0
 18,Mg,Very Low,0,20,5
 18,Mg,Low,0,15,5
 18,Mg,Medium,0,10,5
@@ -625,19 +625,19 @@
 19,Zn,Very Low,0,4.2,1.4
 19,Zn,Low,0,2.8,1.4
 19,Zn,Medium,0,1.4,1.4
-19,Zn,Optimum,0,,0
+19,Zn,Optimum,0,0,0
 19,B,Very Low,0,2.1,0.7
 19,B,Low,0,1.4,0.7
 19,B,Medium,0,0.7,0.7
-19,B,Optimum,0,,0
+19,B,Optimum,0,0,0
 19,Mo,Very Low,0,0,0
 19,Mo,Low,0,0,0
 19,Mo,Medium,0,0,0
-19,Mo,Optimum,0,,0
+19,Mo,Optimum,0,0,0
 19,Mg,Very Low,0,15,5
 19,Mg,Low,0,10,5
 19,Mg,Medium,0,5,5
-19,Mg,Optimum,0,,0
+19,Mg,Optimum,0,0,0
 19,N,Very Low,0,160,40
 19,N,Low,0,120,40
 19,N,Medium,0,80,40
@@ -657,19 +657,19 @@
 19,Zn,Very Low,0,4.2,1.4
 19,Zn,Low,0,2.8,1.4
 19,Zn,Medium,0,1.4,1.4
-19,Zn,Optimum,0,,0
+19,Zn,Optimum,0,0,0
 19,B,Very Low,0,2.1,0.7
 19,B,Low,0,1.4,0.7
 19,B,Medium,0,0.7,0.7
-19,B,Optimum,0,,0
+19,B,Optimum,0,0,0
 19,Mo,Very Low,0,0,0
 19,Mo,Low,0,0,0
 19,Mo,Medium,0,0,0
-19,Mo,Optimum,0,,0
+19,Mo,Optimum,0,0,0
 19,Mg,Very Low,0,9,3
 19,Mg,Low,0,6,3
 19,Mg,Medium,0,3,3
-19,Mg,Optimum,0,,0
+19,Mg,Optimum,0,0,0
 24,N,Very Low,0,80,20
 24,N,Low,0,60,20
 24,N,Medium,0,40,20
@@ -689,19 +689,19 @@
 24,Zn,Very Low,0,3,1
 24,Zn,Low,0,2,1
 24,Zn,Medium,0,1,1
-24,Zn,Optimum,0,,0
+24,Zn,Optimum,0,0,0
 24,B,Very Low,0,0,0
 24,B,Low,0,0,0
 24,B,Medium,0,0,0
-24,B,Optimum,0,,0
+24,B,Optimum,0,0,0
 24,Mo,Very Low,0,0,0
 24,Mo,Low,0,0,0
 24,Mo,Medium,0,0,0
-24,Mo,Optimum,0,,0
+24,Mo,Optimum,0,0,0
 24,Mg,Very Low,0,0,0
 24,Mg,Low,0,0,0
 24,Mg,Medium,0,0,0
-24,Mg,Optimum,0,,0
+24,Mg,Optimum,0,0,0
 25,N,Very Low,0,80,20
 25,N,Low,0,60,20
 25,N,Medium,0,40,20
@@ -721,19 +721,19 @@
 25,Zn,Very Low,0,3,1
 25,Zn,Low,0,2,1
 25,Zn,Medium,0,1,1
-25,Zn,Optimum,0,,0
+25,Zn,Optimum,0,0,0
 25,B,Very Low,0,0,0
 25,B,Low,0,0,0
 25,B,Medium,0,0,0
-25,B,Optimum,0,,0
+25,B,Optimum,0,0,0
 25,Mo,Very Low,0,0,0
 25,Mo,Low,0,0,0
 25,Mo,Medium,0,0,0
-25,Mo,Optimum,0,,0
+25,Mo,Optimum,0,0,0
 25,Mg,Very Low,0,0,0
 25,Mg,Low,0,0,0
 25,Mg,Medium,0,0,0
-25,Mg,Optimum,0,,0
+25,Mg,Optimum,0,0,0
 26,N,Very Low,0,80,20
 26,N,Low,0,60,20
 26,N,Medium,0,40,20
@@ -753,19 +753,19 @@
 26,Zn,Very Low,0,3,1
 26,Zn,Low,0,2,1
 26,Zn,Medium,0,1,1
-26,Zn,Optimum,0,,0
+26,Zn,Optimum,0,0,0
 26,B,Very Low,0,0,0
 26,B,Low,0,0,0
 26,B,Medium,0,0,0
-26,B,Optimum,0,,0
+26,B,Optimum,0,0,0
 26,Mo,Very Low,0,0,0
 26,Mo,Low,0,0,0
 26,Mo,Medium,0,0,0
-26,Mo,Optimum,0,,0
+26,Mo,Optimum,0,0,0
 26,Mg,Very Low,0,0,0
 26,Mg,Low,0,0,0
 26,Mg,Medium,0,0,0
-26,Mg,Optimum,0,,0
+26,Mg,Optimum,0,0,0
 27,N,Very Low,0,100,25
 27,N,Low,0,75,25
 27,N,Medium,0,50,25
@@ -785,19 +785,19 @@
 27,Zn,Very Low,0,4.5,1.5
 27,Zn,Low,0,3,1.5
 27,Zn,Medium,0,1.5,1.5
-27,Zn,Optimum,0,,0
+27,Zn,Optimum,0,0,0
 27,B,Very Low,0,0,0
 27,B,Low,0,0,0
 27,B,Medium,0,0,0
-27,B,Optimum,0,,0
+27,B,Optimum,0,0,0
 27,Mo,Very Low,0,0,0
 27,Mo,Low,0,0,0
 27,Mo,Medium,0,0,0
-27,Mo,Optimum,0,,0
+27,Mo,Optimum,0,0,0
 27,Mg,Very Low,0,0,0
 27,Mg,Low,0,0,0
 27,Mg,Medium,0,0,0
-27,Mg,Optimum,0,,0
+27,Mg,Optimum,0,0,0
 28,N,Very Low,0,120,30
 28,N,Low,0,90,30
 28,N,Medium,0,60,30
@@ -817,19 +817,19 @@
 28,Zn,Very Low,0,6,2
 28,Zn,Low,0,4,2
 28,Zn,Medium,0,2,2
-28,Zn,Optimum,0,,0
+28,Zn,Optimum,0,0,0
 28,B,Very Low,0,0,0
 28,B,Low,0,0,0
 28,B,Medium,0,0,0
-28,B,Optimum,0,,0
+28,B,Optimum,0,0,0
 28,Mo,Very Low,0,0,0
 28,Mo,Low,0,0,0
 28,Mo,Medium,0,0,0
-28,Mo,Optimum,0,,0
+28,Mo,Optimum,0,0,0
 28,Mg,Very Low,0,0,0
 28,Mg,Low,0,0,0
 28,Mg,Medium,0,0,0
-28,Mg,Optimum,0,,0
+28,Mg,Optimum,0,0,0
 29,N,Very Low,0,120,30
 29,N,Low,0,90,30
 29,N,Medium,0,60,30
@@ -849,19 +849,19 @@
 29,Zn,Very Low,0,0,0
 29,Zn,Low,0,0,0
 29,Zn,Medium,0,0,0
-29,Zn,Optimum,0,,0
+29,Zn,Optimum,0,0,0
 29,B,Very Low,0,0,0
 29,B,Low,0,0,0
 29,B,Medium,0,0,0
-29,B,Optimum,0,,0
+29,B,Optimum,0,0,0
 29,Mo,Very Low,0,0,0
 29,Mo,Low,0,0,0
 29,Mo,Medium,0,0,0
-29,Mo,Optimum,0,,0
+29,Mo,Optimum,0,0,0
 29,Mg,Very Low,0,0,0
 29,Mg,Low,0,0,0
 29,Mg,Medium,0,0,0
-29,Mg,Optimum,0,,0
+29,Mg,Optimum,0,0,0
 30,N,Very Low,0,120,30
 30,N,Low,0,90,30
 30,N,Medium,0,60,30
@@ -881,19 +881,19 @@
 30,Zn,Very Low,0,0,0
 30,Zn,Low,0,0,0
 30,Zn,Medium,0,0,0
-30,Zn,Optimum,0,,0
+30,Zn,Optimum,0,0,0
 30,B,Very Low,0,0,0
 30,B,Low,0,0,0
 30,B,Medium,0,0,0
-30,B,Optimum,0,,0
+30,B,Optimum,0,0,0
 30,Mo,Very Low,0,0,0
 30,Mo,Low,0,0,0
 30,Mo,Medium,0,0,0
-30,Mo,Optimum,0,,0
+30,Mo,Optimum,0,0,0
 30,Mg,Very Low,0,0,0
 30,Mg,Low,0,0,0
 30,Mg,Medium,0,0,0
-30,Mg,Optimum,0,,0
+30,Mg,Optimum,0,0,0
 31,N,Very Low,0,140,35
 31,N,Low,0,105,35
 31,N,Medium,0,70,35
@@ -913,19 +913,19 @@
 31,Zn,Very Low,0,6,2
 31,Zn,Low,0,4,2
 31,Zn,Medium,0,2,2
-31,Zn,Optimum,0,,0
+31,Zn,Optimum,0,0,0
 31,B,Very Low,0,3,1
 31,B,Low,0,2,1
 31,B,Medium,0,1,1
-31,B,Optimum,0,,0
+31,B,Optimum,0,0,0
 31,Mo,Very Low,0,0,0
 31,Mo,Low,0,0,0
 31,Mo,Medium,0,0,0
-31,Mo,Optimum,0,,0
+31,Mo,Optimum,0,0,0
 31,Mg,Very Low,0,0,0
 31,Mg,Low,0,0,0
 31,Mg,Medium,0,0,0
-31,Mg,Optimum,0,,0
+31,Mg,Optimum,0,0,0
 32,N,Very Low,0,168,42
 32,N,Low,0,126,42
 32,N,Medium,0,84,42
@@ -945,19 +945,19 @@
 32,Zn,Very Low,0,6,2
 32,Zn,Low,0,4,2
 32,Zn,Medium,0,2,2
-32,Zn,Optimum,0,,0
+32,Zn,Optimum,0,0,0
 32,B,Very Low,0,3,1
 32,B,Low,0,2,1
 32,B,Medium,0,1,1
-32,B,Optimum,0,,0
+32,B,Optimum,0,0,0
 32,Mo,Very Low,0,0,0
 32,Mo,Low,0,0,0
 32,Mo,Medium,0,0,0
-32,Mo,Optimum,0,,0
+32,Mo,Optimum,0,0,0
 32,Mg,Very Low,0,0,0
 32,Mg,Low,0,0,0
 32,Mg,Medium,0,0,0
-32,Mg,Optimum,0,,0
+32,Mg,Optimum,0,0,0
 33,N,Very Low,0,120,30
 33,N,Low,0,90,30
 33,N,Medium,0,60,30
@@ -977,19 +977,19 @@
 33,Zn,Very Low,0,6,2
 33,Zn,Low,0,4,2
 33,Zn,Medium,0,2,2
-33,Zn,Optimum,0,,0
+33,Zn,Optimum,0,0,0
 33,B,Very Low,0,3,1
 33,B,Low,0,2,1
 33,B,Medium,0,1,1
-33,B,Optimum,0,,0
+33,B,Optimum,0,0,0
 33,Mo,Very Low,0,0,0
 33,Mo,Low,0,0,0
 33,Mo,Medium,0,0,0
-33,Mo,Optimum,0,,0
+33,Mo,Optimum,0,0,0
 33,Mg,Very Low,0,0,0
 33,Mg,Low,0,0,0
 33,Mg,Medium,0,0,0
-33,Mg,Optimum,0,,0
+33,Mg,Optimum,0,0,0
 34,N,Very Low,0,108,27
 34,N,Low,0,81,27
 34,N,Medium,0,54,27
@@ -1009,19 +1009,19 @@
 34,Zn,Very Low,0,6,2
 34,Zn,Low,0,4,2
 34,Zn,Medium,0,2,2
-34,Zn,Optimum,0,,2
+34,Zn,Optimum,0,0,2
 34,B,Very Low,0,3,1
 34,B,Low,0,2,1
 34,B,Medium,0,1,1
-34,B,Optimum,0,,0
+34,B,Optimum,0,0,0
 34,Mo,Very Low,0,0,0
 34,Mo,Low,0,0,0
 34,Mo,Medium,0,0,0
-34,Mo,Optimum,0,,0
+34,Mo,Optimum,0,0,0
 34,Mg,Very Low,0,0,0
 34,Mg,Low,0,0,0
 34,Mg,Medium,0,0,0
-34,Mg,Optimum,0,,0
+34,Mg,Optimum,0,0,0
 35,N,Very Low,0,120,30
 35,N,Low,0,90,30
 35,N,Medium,0,60,30
@@ -1041,19 +1041,19 @@
 35,Zn,Very Low,0,4.5,1.5
 35,Zn,Low,0,3,1.5
 35,Zn,Medium,0,1.5,1.5
-35,Zn,Optimum,0,,0
+35,Zn,Optimum,0,0,0
 35,B,Very Low,0,1.5,0.5
 35,B,Low,0,1,0.5
 35,B,Medium,0,0.5,0.5
-35,B,Optimum,0,,0
+35,B,Optimum,0,0,0
 35,Mo,Very Low,0,0,0
 35,Mo,Low,0,0,0
 35,Mo,Medium,0,0,0
-35,Mo,Optimum,0,,0
+35,Mo,Optimum,0,0,0
 35,Mg,Very Low,0,0,0
 35,Mg,Low,0,0,0
 35,Mg,Medium,0,0,0
-35,Mg,Optimum,0,,0
+35,Mg,Optimum,0,0,0
 36,N,Very Low,0,160,40
 36,N,Low,0,120,40
 36,N,Medium,0,80,40
@@ -1073,15 +1073,15 @@
 36,Zn,Very Low,0,6,2
 36,Zn,Low,0,4,2
 36,Zn,Medium,0,2,2
-36,Zn,Optimum,0,,0
+36,Zn,Optimum,0,0,0
 36,B,Very Low,0,3,1
 36,B,Low,0,2,1
 36,B,Medium,0,1,1
-36,B,Optimum,0,,0
+36,B,Optimum,0,0,0
 36,Mo,Very Low,0,0,0
 36,Mo,Low,0,0,0
 36,Mo,Medium,0,0,0
-36,Mo,Optimum,0,,0
+36,Mo,Optimum,0,0,0
 36,Mg,Very Low,0,20,5
 36,Mg,Low,0,15,5
 36,Mg,Medium,0,10,5
@@ -1105,15 +1105,15 @@
 37,Zn,Very Low,0,6,2
 37,Zn,Low,0,4,2
 37,Zn,Medium,0,2,2
-37,Zn,Optimum,0,,0
+37,Zn,Optimum,0,0,0
 37,B,Very Low,0,3,1
 37,B,Low,0,2,1
 37,B,Medium,0,1,1
-37,B,Optimum,0,,0
+37,B,Optimum,0,0,0
 37,Mo,Very Low,0,0,0
 37,Mo,Low,0,0,0
 37,Mo,Medium,0,0,0
-37,Mo,Optimum,0,,0
+37,Mo,Optimum,0,0,0
 37,Mg,Very Low,0,20,5
 37,Mg,Low,0,15,5
 37,Mg,Medium,0,10,5
@@ -1137,19 +1137,19 @@
 38,Zn,Very Low,0,3,1
 38,Zn,Low,0,2,1
 38,Zn,Medium,0,1,1
-38,Zn,Optimum,0,,0
+38,Zn,Optimum,0,0,0
 38,B,Very Low,0,1.8,0.6
 38,B,Low,0,1.2,0.6
 38,B,Medium,0,0.6,0.6
-38,B,Optimum,0,,0
+38,B,Optimum,0,0,0
 38,Mo,Very Low,0,1.2,0.4
 38,Mo,Low,0,0.8,0.4
 38,Mo,Medium,0,0.4,0.4
-38,Mo,Optimum,0,,0
+38,Mo,Optimum,0,0,0
 38,Mg,Very Low,0,0,0
 38,Mg,Low,0,0,0
 38,Mg,Medium,0,0,0
-38,Mg,Optimum,0,,0
+38,Mg,Optimum,0,0,0
 39,N,Very Low,0,36,9
 39,N,Low,0,27,9
 39,N,Medium,0,18,9
@@ -1169,19 +1169,19 @@
 39,Zn,Very Low,0,3,1
 39,Zn,Low,0,2,1
 39,Zn,Medium,0,1,1
-39,Zn,Optimum,0,,0
+39,Zn,Optimum,0,0,0
 39,B,Very Low,0,1.8,0.6
 39,B,Low,0,1.2,0.6
 39,B,Medium,0,0.6,0.6
-39,B,Optimum,0,,0
+39,B,Optimum,0,0,0
 39,Mo,Very Low,0,1.2,0.4
 39,Mo,Low,0,0.8,0.4
 39,Mo,Medium,0,0.4,0.4
-39,Mo,Optimum,0,,0
+39,Mo,Optimum,0,0,0
 39,Mg,Very Low,0,0,0
 39,Mg,Low,0,0,0
 39,Mg,Medium,0,0,0
-39,Mg,Optimum,0,,0
+39,Mg,Optimum,0,0,0
 40,N,Very Low,0,32,8
 40,N,Low,0,24,8
 40,N,Medium,0,16,8
@@ -1201,19 +1201,19 @@
 40,Zn,Very Low,0,3,1
 40,Zn,Low,0,2,1
 40,Zn,Medium,0,1,1
-40,Zn,Optimum,0,,0
+40,Zn,Optimum,0,0,0
 40,B,Very Low,0,1.5,0.5
 40,B,Low,0,1,0.5
 40,B,Medium,0,0.5,0.5
-40,B,Optimum,0,,0
+40,B,Optimum,0,0,0
 40,Mo,Very Low,0,0.6,0.2
 40,Mo,Low,0,0.4,0.2
 40,Mo,Medium,0,0.2,0.2
-40,Mo,Optimum,0,,0
+40,Mo,Optimum,0,0,0
 40,Mg,Very Low,0,0,0
 40,Mg,Low,0,0,0
 40,Mg,Medium,0,0,0
-40,Mg,Optimum,0,,0
+40,Mg,Optimum,0,0,0
 41,N,Very Low,0,24,6
 41,N,Low,0,18,6
 41,N,Medium,0,12,6
@@ -1233,19 +1233,19 @@
 41,Zn,Very Low,0,3,1
 41,Zn,Low,0,2,1
 41,Zn,Medium,0,1,1
-41,Zn,Optimum,0,,0
+41,Zn,Optimum,0,0,0
 41,B,Very Low,0,1.8,0.6
 41,B,Low,0,1.2,0.6
 41,B,Medium,0,0.6,0.6
-41,B,Optimum,0,,0.6
+41,B,Optimum,0,0,0.6
 41,Mo,Very Low,0,1.2,0.4
 41,Mo,Low,0,0.8,0.4
 41,Mo,Medium,0,0.4,0.4
-41,Mo,Optimum,0,,0
+41,Mo,Optimum,0,0,0
 41,Mg,Very Low,0,0,0
 41,Mg,Low,0,0,0
 41,Mg,Medium,0,0,0
-41,Mg,Optimum,0,,0
+41,Mg,Optimum,0,0,0
 42,N,Very Low,0,24,6
 42,N,Low,0,18,6
 42,N,Medium,0,12,6
@@ -1265,19 +1265,19 @@
 42,Zn,Very Low,0,0,0
 42,Zn,Low,0,0,0
 42,Zn,Medium,0,0,0
-42,Zn,Optimum,0,,0
+42,Zn,Optimum,0,0,0
 42,B,Very Low,0,0,0
 42,B,Low,0,0,0
 42,B,Medium,0,0,0
-42,B,Optimum,0,,0
+42,B,Optimum,0,0,0
 42,Mo,Very Low,0,0,0
 42,Mo,Low,0,0,0
 42,Mo,Medium,0,0,0
-42,Mo,Optimum,0,,0
+42,Mo,Optimum,0,0,0
 42,Mg,Very Low,0,0,0
 42,Mg,Low,0,0,0
 42,Mg,Medium,0,0,0
-42,Mg,Optimum,0,,0
+42,Mg,Optimum,0,0,0
 43,N,Very Low,0,20,5
 43,N,Low,0,15,5
 43,N,Medium,0,10,5
@@ -1297,19 +1297,19 @@
 43,Zn,Very Low,0,0,0
 43,Zn,Low,0,0,0
 43,Zn,Medium,0,0,0
-43,Zn,Optimum,0,,0
+43,Zn,Optimum,0,0,0
 43,B,Very Low,0,0,0
 43,B,Low,0,0,0
 43,B,Medium,0,0,0
-43,B,Optimum,0,,0
+43,B,Optimum,0,0,0
 43,Mo,Very Low,0,0,0
 43,Mo,Low,0,0,0
 43,Mo,Medium,0,0,0
-43,Mo,Optimum,0,,0
+43,Mo,Optimum,0,0,0
 43,Mg,Very Low,0,0,0
 43,Mg,Low,0,0,0
 43,Mg,Medium,0,0,0
-43,Mg,Optimum,0,,0
+43,Mg,Optimum,0,0,0
 44,N,Very Low,0,20,5
 44,N,Low,0,15,5
 44,N,Medium,0,10,5
@@ -1329,19 +1329,19 @@
 44,Zn,Very Low,0,0,0
 44,Zn,Low,0,0,0
 44,Zn,Medium,0,0,0
-44,Zn,Optimum,0,,0
+44,Zn,Optimum,0,0,0
 44,B,Very Low,0,0,0
 44,B,Low,0,0,0
 44,B,Medium,0,0,0
-44,B,Optimum,0,,0
+44,B,Optimum,0,0,0
 44,Mo,Very Low,0,0,0
 44,Mo,Low,0,0,0
 44,Mo,Medium,0,0,0
-44,Mo,Optimum,0,,0
+44,Mo,Optimum,0,0,0
 44,Mg,Very Low,0,0,0
 44,Mg,Low,0,0,0
 44,Mg,Medium,0,0,0
-44,Mg,Optimum,0,,0
+44,Mg,Optimum,0,0,0
 20,N,Very Low,0,160,40
 20,N,Low,0,120,40
 20,N,Medium,0,80,40
@@ -1361,19 +1361,19 @@
 20,Zn,Very Low,0,4.5,1.5
 20,Zn,Low,0,3,1.5
 20,Zn,Medium,0,1.5,1.5
-20,Zn,Optimum,0,,0
+20,Zn,Optimum,0,0,0
 20,B,Very Low,0,1.5,0.5
 20,B,Low,0,1,0.5
 20,B,Medium,0,0.5,0.5
-20,B,Optimum,0,,0
+20,B,Optimum,0,0,0
 20,Mo,Very Low,0,0,0
 20,Mo,Low,0,0,0
 20,Mo,Medium,0,0,0
-20,Mo,Optimum,0,,0
+20,Mo,Optimum,0,0,0
 20,Mg,Very Low,0,9,3
 20,Mg,Low,0,6,3
 20,Mg,Medium,0,3,3
-20,Mg,Optimum,0,,0
+20,Mg,Optimum,0,0,0
 21,N,Very Low,0,120,30
 21,N,Low,0,90,30
 21,N,Medium,0,60,30
@@ -1393,19 +1393,19 @@
 21,Zn,Very Low,0,3,1
 21,Zn,Low,0,2,1
 21,Zn,Medium,0,1,1
-21,Zn,Optimum,0,,0
+21,Zn,Optimum,0,0,0
 21,B,Very Low,0,1.5,0.5
 21,B,Low,0,1,0.5
 21,B,Medium,0,0.5,0.5
-21,B,Optimum,0,,0
+21,B,Optimum,0,0,0
 21,Mo,Very Low,0,0,0
 21,Mo,Low,0,0,0
 21,Mo,Medium,0,0,0
-21,Mo,Optimum,0,,0
+21,Mo,Optimum,0,0,0
 21,Mg,Very Low,0,7.5,2.5
 21,Mg,Low,0,5,2.5
 21,Mg,Medium,0,2.5,2.5
-21,Mg,Optimum,0,,0
+21,Mg,Optimum,0,0,0
 45,N,Very Low,0,100,25
 45,N,Low,0,75,25
 45,N,Medium,0,50,25
@@ -1425,19 +1425,19 @@
 45,Zn,Very Low,0,3.9,1.3
 45,Zn,Low,0,2.6,1.3
 45,Zn,Medium,0,1.3,1.3
-45,Zn,Optimum,0,,0
+45,Zn,Optimum,0,0,0
 45,B,Very Low,0,3,1
 45,B,Low,0,2,1
 45,B,Medium,0,1,1
-45,B,Optimum,0,,1
+45,B,Optimum,0,0,1
 45,Mo,Very Low,0,0,0
 45,Mo,Low,0,0,0
 45,Mo,Medium,0,0,0
-45,Mo,Optimum,0,,0
+45,Mo,Optimum,0,0,0
 45,Mg,Very Low,0,0,0
 45,Mg,Low,0,0,0
 45,Mg,Medium,0,0,0
-45,Mg,Optimum,0,,0
+45,Mg,Optimum,0,0,0
 46,N,Very Low,0,48,12
 46,N,Low,0,36,12
 46,N,Medium,0,24,12
@@ -1457,19 +1457,19 @@
 46,Zn,Very Low,0,3,1
 46,Zn,Low,0,2,1
 46,Zn,Medium,0,1,1
-46,Zn,Optimum,0,,0
+46,Zn,Optimum,0,0,0
 46,B,Very Low,0,2.1,0.7
 46,B,Low,0,1.4,0.7
 46,B,Medium,0,0.7,0.7
-46,B,Optimum,0,,0
+46,B,Optimum,0,0,0
 46,Mo,Very Low,0,0.6,0.2
 46,Mo,Low,0,0.4,0.2
 46,Mo,Medium,0,0.2,0.2
-46,Mo,Optimum,0,,0
+46,Mo,Optimum,0,0,0
 46,Mg,Very Low,0,0,0
 46,Mg,Low,0,0,0
 46,Mg,Medium,0,0,0
-46,Mg,Optimum,0,,0
+46,Mg,Optimum,0,0,0
 47,N,Very Low,0,36,9
 47,N,Low,0,27,9
 47,N,Medium,0,18,9
@@ -1489,19 +1489,19 @@
 47,Zn,Very Low,0,3,1
 47,Zn,Low,0,2,1
 47,Zn,Medium,0,1,1
-47,Zn,Optimum,0,,0
+47,Zn,Optimum,0,0,0
 47,B,Very Low,0,1.5,0.5
 47,B,Low,0,1,0.5
 47,B,Medium,0,0.5,0.5
-47,B,Optimum,0,,0
+47,B,Optimum,0,0,0
 47,Mo,Very Low,0,0.6,0.2
 47,Mo,Low,0,0.4,0.2
 47,Mo,Medium,0,0.2,0.2
-47,Mo,Optimum,0,,0
+47,Mo,Optimum,0,0,0
 47,Mg,Very Low,0,0,0
 47,Mg,Low,0,0,0
 47,Mg,Medium,0,0,0
-47,Mg,Optimum,0,,0
+47,Mg,Optimum,0,0,0
 48,N,Very Low,0,140,35
 48,N,Low,0,105,35
 48,N,Medium,0,70,35
@@ -1521,19 +1521,19 @@
 48,Zn,Very Low,0,3,1
 48,Zn,Low,0,2,1
 48,Zn,Medium,0,1,1
-48,Zn,Optimum,0,,0
+48,Zn,Optimum,0,0,0
 48,B,Very Low,0,2.4,0.8
 48,B,Low,0,1.6,0.8
 48,B,Medium,0,0.8,0.8
-48,B,Optimum,0,,0
+48,B,Optimum,0,0,0
 48,Mo,Very Low,0,0,0
 48,Mo,Low,0,0,0
 48,Mo,Medium,0,0,0
-48,Mo,Optimum,0,,0
+48,Mo,Optimum,0,0,0
 48,Mg,Very Low,0,9,3
 48,Mg,Low,0,6,3
 48,Mg,Medium,0,3,3
-48,Mg,Optimum,0,,0
+48,Mg,Optimum,0,0,0
 49,N,Very Low,0,100,25
 49,N,Low,0,75,25
 49,N,Medium,0,50,25
@@ -1553,19 +1553,19 @@
 49,Zn,Very Low,0,3.9,1.3
 49,Zn,Low,0,2.6,1.3
 49,Zn,Medium,0,1.3,1.3
-49,Zn,Optimum,0,,0
+49,Zn,Optimum,0,0,0
 49,B,Very Low,0,3,1
 49,B,Low,0,2,1
 49,B,Medium,0,1,1
-49,B,Optimum,0,,0
+49,B,Optimum,0,0,0
 49,Mo,Very Low,0,0,0
 49,Mo,Low,0,0,0
 49,Mo,Medium,0,0,0
-49,Mo,Optimum,0,,0
+49,Mo,Optimum,0,0,0
 49,Mg,Very Low,0,0,0
 49,Mg,Low,0,0,0
 49,Mg,Medium,0,0,0
-49,Mg,Optimum,0,,0
+49,Mg,Optimum,0,0,0
 50,N,Very Low,0,60,15
 50,N,Low,0,45,15
 50,N,Medium,0,30,15
@@ -1585,19 +1585,19 @@
 50,Zn,Very Low,0,0,0
 50,Zn,Low,0,0,0
 50,Zn,Medium,0,0,0
-50,Zn,Optimum,0,,0
+50,Zn,Optimum,0,0,0
 50,B,Very Low,0,0,0
 50,B,Low,0,0,0
 50,B,Medium,0,0,0
-50,B,Optimum,0,,0
+50,B,Optimum,0,0,0
 50,Mo,Very Low,0,0,0
 50,Mo,Low,0,0,0
 50,Mo,Medium,0,0,0
-50,Mo,Optimum,0,,0
+50,Mo,Optimum,0,0,0
 50,Mg,Very Low,0,0,0
 50,Mg,Low,0,0,0
 50,Mg,Medium,0,0,0
-50,Mg,Optimum,0,,0
+50,Mg,Optimum,0,0,0
 51,N,Very Low,0,100,25
 51,N,Low,0,75,25
 51,N,Medium,0,50,25
@@ -1617,19 +1617,19 @@
 51,Zn,Very Low,0,3.9,1.3
 51,Zn,Low,0,2.6,1.3
 51,Zn,Medium,0,1.3,1.3
-51,Zn,Optimum,0,,1.3
+51,Zn,Optimum,0,0,1.3
 51,B,Very Low,0,3,1
 51,B,Low,0,2,1
 51,B,Medium,0,1,1
-51,B,Optimum,0,,0
+51,B,Optimum,0,0,0
 51,Mo,Very Low,0,0,0
 51,Mo,Low,0,0,0
 51,Mo,Medium,0,0,0
-51,Mo,Optimum,0,,0
+51,Mo,Optimum,0,0,0
 51,Mg,Very Low,0,0,0
 51,Mg,Low,0,0,0
 51,Mg,Medium,0,0,0
-51,Mg,Optimum,0,,0
+51,Mg,Optimum,0,0,0
 22,N,Very Low,0,180,45
 22,N,Low,0,135,45
 22,N,Medium,0,90,45
@@ -1649,19 +1649,19 @@
 22,Zn,Very Low,0,6,2
 22,Zn,Low,0,4,2
 22,Zn,Medium,0,2,2
-22,Zn,Optimum,0,,0
+22,Zn,Optimum,0,0,0
 22,B,Very Low,0,2.4,0.8
 22,B,Low,0,1.6,0.8
 22,B,Medium,0,0.8,0.8
-22,B,Optimum,0,,0
+22,B,Optimum,0,0,0
 22,Mo,Very Low,0,0,0
 22,Mo,Low,0,0,0
 22,Mo,Medium,0,0,0
-22,Mo,Optimum,0,,0
+22,Mo,Optimum,0,0,0
 22,Mg,Very Low,0,15,5
 22,Mg,Low,0,10,5
 22,Mg,Medium,0,5,5
-22,Mg,Optimum,0,,0
+22,Mg,Optimum,0,0,0
 23,N,Very Low,0,160,40
 23,N,Low,0,120,40
 23,N,Medium,0,80,40
@@ -1681,19 +1681,19 @@
 23,Zn,Very Low,0,4.5,1.5
 23,Zn,Low,0,3,1.5
 23,Zn,Medium,0,1.5,1.5
-23,Zn,Optimum,0,,0
+23,Zn,Optimum,0,0,0
 23,B,Very Low,0,2.4,0.8
 23,B,Low,0,1.6,0.8
 23,B,Medium,0,0.8,0.8
-23,B,Optimum,0,,0
+23,B,Optimum,0,0,0
 23,Mo,Very Low,0,0,0
 23,Mo,Low,0,0,0
 23,Mo,Medium,0,0,0
-23,Mo,Optimum,0,,0
+23,Mo,Optimum,0,0,0
 23,Mg,Very Low,0,15,5
 23,Mg,Low,0,10,5
 23,Mg,Medium,0,5,5
-23,Mg,Optimum,0,,0
+23,Mg,Optimum,0,0,0
 52,N,Very Low,0,140,35
 52,N,Low,0,105,35
 52,N,Medium,0,70,35
@@ -1713,19 +1713,19 @@
 52,Zn,Very Low,0,0,0
 52,Zn,Low,0,0,0
 52,Zn,Medium,0,0,0
-52,Zn,Optimum,0,,0
+52,Zn,Optimum,0,0,0
 52,B,Very Low,0,0,0
 52,B,Low,0,0,0
 52,B,Medium,0,0,0
-52,B,Optimum,0,,0
+52,B,Optimum,0,0,0
 52,Mo,Very Low,0,0,0
 52,Mo,Low,0,0,0
 52,Mo,Medium,0,0,0
-52,Mo,Optimum,0,,0
+52,Mo,Optimum,0,0,0
 52,Mg,Very Low,0,0,0
 52,Mg,Low,0,0,0
 52,Mg,Medium,0,0,0
-52,Mg,Optimum,0,,0
+52,Mg,Optimum,0,0,0
 53,N,Very Low,0,120,30
 53,N,Low,0,90,30
 53,N,Medium,0,60,30
@@ -1745,19 +1745,19 @@
 53,Zn,Very Low,0,0,0
 53,Zn,Low,0,0,0
 53,Zn,Medium,0,0,0
-53,Zn,Optimum,0,,0
+53,Zn,Optimum,0,0,0
 53,B,Very Low,0,0,0
 53,B,Low,0,0,0
 53,B,Medium,0,0,0
-53,B,Optimum,0,,0
+53,B,Optimum,0,0,0
 53,Mo,Very Low,0,0,0
 53,Mo,Low,0,0,0
 53,Mo,Medium,0,0,0
-53,Mo,Optimum,0,,0
+53,Mo,Optimum,0,0,0
 53,Mg,Very Low,0,0,0
 53,Mg,Low,0,0,0
 53,Mg,Medium,0,0,0
-53,Mg,Optimum,0,,0
+53,Mg,Optimum,0,0,0
 54,N,Very Low,0,240,60
 54,N,Low,0,180,60
 54,N,Medium,0,120,60
@@ -1777,19 +1777,19 @@
 54,Zn,Very Low,0,4.5,1.5
 54,Zn,Low,0,3,1.5
 54,Zn,Medium,0,1.5,1.5
-54,Zn,Optimum,0,,0
+54,Zn,Optimum,0,0,0
 54,B,Very Low,0,1.5,0.5
 54,B,Low,0,1,0.5
 54,B,Medium,0,0.5,0.5
-54,B,Optimum,0,,0
+54,B,Optimum,0,0,0
 54,Mo,Very Low,0,0,0
 54,Mo,Low,0,0,0
 54,Mo,Medium,0,0,0
-54,Mo,Optimum,0,,0
+54,Mo,Optimum,0,0,0
 54,Mg,Very Low,0,0,0
 54,Mg,Low,0,0,0
 54,Mg,Medium,0,0,0
-54,Mg,Optimum,0,,0
+54,Mg,Optimum,0,0,0
 55,N,Very Low,0,160,40
 55,N,Low,0,120,40
 55,N,Medium,0,80,40
@@ -1809,19 +1809,19 @@
 55,Zn,Very Low,0,3.6,1.2
 55,Zn,Low,0,2.4,1.2
 55,Zn,Medium,0,1.2,1.2
-55,Zn,Optimum,0,,0
+55,Zn,Optimum,0,0,0
 55,B,Very Low,0,1.2,0.4
 55,B,Low,0,0.8,0.4
 55,B,Medium,0,0.4,0.4
-55,B,Optimum,0,,0
+55,B,Optimum,0,0,0
 55,Mo,Very Low,0,0,0
 55,Mo,Low,0,0,0
 55,Mo,Medium,0,0,0
-55,Mo,Optimum,0,,0
+55,Mo,Optimum,0,0,0
 55,Mg,Very Low,0,0,0
 55,Mg,Low,0,0,0
 55,Mg,Medium,0,0,0
-55,Mg,Optimum,0,,0
+55,Mg,Optimum,0,0,0
 56,N,Very Low,0,160,40
 56,N,Low,0,120,40
 56,N,Medium,0,80,40
@@ -1841,19 +1841,19 @@
 56,Zn,Very Low,0,4.5,1.5
 56,Zn,Low,0,3,1.5
 56,Zn,Medium,0,1.5,1.5
-56,Zn,Optimum,0,,0
+56,Zn,Optimum,0,0,0
 56,B,Very Low,0,2.4,0.8
 56,B,Low,0,1.6,0.8
 56,B,Medium,0,0.8,0.8
-56,B,Optimum,0,,0
+56,B,Optimum,0,0,0
 56,Mo,Very Low,0,0,0
 56,Mo,Low,0,0,0
 56,Mo,Medium,0,0,0
-56,Mo,Optimum,0,,0
+56,Mo,Optimum,0,0,0
 56,Mg,Very Low,0,0,0
 56,Mg,Low,0,0,0
 56,Mg,Medium,0,0,0
-56,Mg,Optimum,0,,0
+56,Mg,Optimum,0,0,0
 57,N,Very Low,0,120,30
 57,N,Low,0,90,30
 57,N,Medium,0,60,30
@@ -1873,19 +1873,19 @@
 57,Zn,Very Low,0,3.6,1.2
 57,Zn,Low,0,2.4,1.2
 57,Zn,Medium,0,1.2,1.2
-57,Zn,Optimum,0,,1.2
+57,Zn,Optimum,0,0,1.2
 57,B,Very Low,0,2.1,0.7
 57,B,Low,0,1.4,0.7
 57,B,Medium,0,0.7,0.7
-57,B,Optimum,0,,0
+57,B,Optimum,0,0,0
 57,Mo,Very Low,0,0,0
 57,Mo,Low,0,0,0
 57,Mo,Medium,0,0,0
-57,Mo,Optimum,0,,0
+57,Mo,Optimum,0,0,0
 57,Mg,Very Low,0,0,0
 57,Mg,Low,0,0,0
 57,Mg,Medium,0,0,0
-57,Mg,Optimum,0,,0
+57,Mg,Optimum,0,0,0
 58,N,Very Low,0,140,35
 58,N,Low,0,105,35
 58,N,Medium,0,70,35
@@ -1905,19 +1905,19 @@
 58,Zn,Very Low,0,0,0
 58,Zn,Low,0,0,0
 58,Zn,Medium,0,0,0
-58,Zn,Optimum,0,,0
+58,Zn,Optimum,0,0,0
 58,B,Very Low,0,0,0
 58,B,Low,0,0,0
 58,B,Medium,0,0,0
-58,B,Optimum,0,,0
+58,B,Optimum,0,0,0
 58,Mo,Very Low,0,0,0
 58,Mo,Low,0,0,0
 58,Mo,Medium,0,0,0
-58,Mo,Optimum,0,,0
+58,Mo,Optimum,0,0,0
 58,Mg,Very Low,0,0,0
 58,Mg,Low,0,0,0
 58,Mg,Medium,0,0,0
-58,Mg,Optimum,0,,0
+58,Mg,Optimum,0,0,0
 59,N,Very Low,0,120,30
 59,N,Low,0,90,30
 59,N,Medium,0,60,30
@@ -1937,19 +1937,19 @@
 59,Zn,Very Low,0,3,1
 59,Zn,Low,0,2,1
 59,Zn,Medium,0,1,1
-59,Zn,Optimum,0,,0
+59,Zn,Optimum,0,0,0
 59,B,Very Low,0,1.8,0.6
 59,B,Low,0,1.2,0.6
 59,B,Medium,0,0.6,0.6
-59,B,Optimum,0,,0
+59,B,Optimum,0,0,0
 59,Mo,Very Low,0,0,0
 59,Mo,Low,0,0,0
 59,Mo,Medium,0,0,0
-59,Mo,Optimum,0,,0
+59,Mo,Optimum,0,0,0
 59,Mg,Very Low,0,0,0
 59,Mg,Low,0,0,0
 59,Mg,Medium,0,0,0
-59,Mg,Optimum,0,,0
+59,Mg,Optimum,0,0,0
 60,N,Very Low,0,120,30
 60,N,Low,0,90,30
 60,N,Medium,0,60,30
@@ -1969,19 +1969,19 @@
 60,Zn,Very Low,0,0,0
 60,Zn,Low,0,0,0
 60,Zn,Medium,0,0,0
-60,Zn,Optimum,0,,0
+60,Zn,Optimum,0,0,0
 60,B,Very Low,0,0,0
 60,B,Low,0,0,0
 60,B,Medium,0,0,0
-60,B,Optimum,0,,0
+60,B,Optimum,0,0,0
 60,Mo,Very Low,0,0,0
 60,Mo,Low,0,0,0
 60,Mo,Medium,0,0,0
-60,Mo,Optimum,0,,0
+60,Mo,Optimum,0,0,0
 60,Mg,Very Low,0,0,0
 60,Mg,Low,0,0,0
 60,Mg,Medium,0,0,0
-60,Mg,Optimum,0,,0
+60,Mg,Optimum,0,0,0
 61,N,Very Low,0,160,40
 61,N,Low,0,120,40
 61,N,Medium,0,80,40
@@ -2001,19 +2001,19 @@
 61,Zn,Very Low,0,3,1
 61,Zn,Low,0,2,1
 61,Zn,Medium,0,1,1
-61,Zn,Optimum,0,,0
+61,Zn,Optimum,0,0,0
 61,B,Very Low,0,1.5,0.5
 61,B,Low,0,1,0.5
 61,B,Medium,0,0.5,0.5
-61,B,Optimum,0,,0
+61,B,Optimum,0,0,0
 61,Mo,Very Low,0,0,0
 61,Mo,Low,0,0,0
 61,Mo,Medium,0,0,0
-61,Mo,Optimum,0,,0
+61,Mo,Optimum,0,0,0
 61,Mg,Very Low,0,0,0
 61,Mg,Low,0,0,0
 61,Mg,Medium,0,0,0
-61,Mg,Optimum,0,,0
+61,Mg,Optimum,0,0,0
 62,N,Very Low,0,120,30
 62,N,Low,0,90,30
 62,N,Medium,0,60,30
@@ -2033,19 +2033,19 @@
 62,Zn,Very Low,0,3,1
 62,Zn,Low,0,2,1
 62,Zn,Medium,0,1,1
-62,Zn,Optimum,0,,0
+62,Zn,Optimum,0,0,0
 62,B,Very Low,0,1.5,0.5
 62,B,Low,0,1,0.5
 62,B,Medium,0,0.5,0.5
-62,B,Optimum,0,,0
+62,B,Optimum,0,0,0
 62,Mo,Very Low,0,0,0
 62,Mo,Low,0,0,0
 62,Mo,Medium,0,0,0
-62,Mo,Optimum,0,,0
+62,Mo,Optimum,0,0,0
 62,Mg,Very Low,0,0,0
 62,Mg,Low,0,0,0
 62,Mg,Medium,0,0,0
-62,Mg,Optimum,0,,0
+62,Mg,Optimum,0,0,0
 63,N,Very Low,0,180,45
 63,N,Low,0,135,45
 63,N,Medium,0,90,45
@@ -2065,19 +2065,19 @@
 63,Zn,Very Low,0,3,1
 63,Zn,Low,0,2,1
 63,Zn,Medium,0,1,1
-63,Zn,Optimum,0,,0
+63,Zn,Optimum,0,0,0
 63,B,Very Low,0,1.5,0.5
 63,B,Low,0,1,0.5
 63,B,Medium,0,0.5,0.5
-63,B,Optimum,0,,0
+63,B,Optimum,0,0,0
 63,Mo,Very Low,0,0,0
 63,Mo,Low,0,0,0
 63,Mo,Medium,0,0,0
-63,Mo,Optimum,0,,0
+63,Mo,Optimum,0,0,0
 63,Mg,Very Low,0,0,0
 63,Mg,Low,0,0,0
 63,Mg,Medium,0,0,0
-63,Mg,Optimum,0,,0
+63,Mg,Optimum,0,0,0
 64,N,Very Low,0,120,30
 64,N,Low,0,90,30
 64,N,Medium,0,60,30
@@ -2097,19 +2097,19 @@
 64,Zn,Very Low,0,3,1
 64,Zn,Low,0,2,1
 64,Zn,Medium,0,1,1
-64,Zn,Optimum,0,,0
+64,Zn,Optimum,0,0,0
 64,B,Very Low,0,2.1,0.7
 64,B,Low,0,1.4,0.7
 64,B,Medium,0,0.7,0.7
-64,B,Optimum,0,,0
+64,B,Optimum,0,0,0
 64,Mo,Very Low,0,0,0
 64,Mo,Low,0,0,0
 64,Mo,Medium,0,0,0
-64,Mo,Optimum,0,,0
+64,Mo,Optimum,0,0,0
 64,Mg,Very Low,0,0,0
 64,Mg,Low,0,0,0
 64,Mg,Medium,0,0,0
-64,Mg,Optimum,0,,0
+64,Mg,Optimum,0,0,0
 65,N,Very Low,0,180,45
 65,N,Low,0,135,45
 65,N,Medium,0,90,45
@@ -2129,19 +2129,19 @@
 65,Zn,Very Low,0,4.5,1.5
 65,Zn,Low,0,3,1.5
 65,Zn,Medium,0,1.5,1.5
-65,Zn,Optimum,0,,0
+65,Zn,Optimum,0,0,0
 65,B,Very Low,0,0,0
 65,B,Low,0,0,0
 65,B,Medium,0,0,0
-65,B,Optimum,0,,0
+65,B,Optimum,0,0,0
 65,Mo,Very Low,0,0,0
 65,Mo,Low,0,0,0
 65,Mo,Medium,0,0,0
-65,Mo,Optimum,0,,0
+65,Mo,Optimum,0,0,0
 65,Mg,Very Low,0,0,0
 65,Mg,Low,0,0,0
 65,Mg,Medium,0,0,0
-65,Mg,Optimum,0,,0
+65,Mg,Optimum,0,0,0
 66,N,Very Low,0,160,40
 66,N,Low,0,120,40
 66,N,Medium,0,80,40
@@ -2161,19 +2161,19 @@
 66,Zn,Very Low,0,3,1
 66,Zn,Low,0,2,1
 66,Zn,Medium,0,1,1
-66,Zn,Optimum,0,,0
+66,Zn,Optimum,0,0,0
 66,B,Very Low,0,0,0
 66,B,Low,0,0,0
 66,B,Medium,0,0,0
-66,B,Optimum,0,,0
+66,B,Optimum,0,0,0
 66,Mo,Very Low,0,0,0
 66,Mo,Low,0,0,0
 66,Mo,Medium,0,0,0
-66,Mo,Optimum,0,,0
+66,Mo,Optimum,0,0,0
 66,Mg,Very Low,0,0,0
 66,Mg,Low,0,0,0
 66,Mg,Medium,0,0,0
-66,Mg,Optimum,0,,0
+66,Mg,Optimum,0,0,0
 67,N,Very Low,0,60,15
 67,N,Low,0,45,15
 67,N,Medium,0,30,15
@@ -2193,19 +2193,19 @@
 67,Zn,Very Low,0,3,1
 67,Zn,Low,0,2,1
 67,Zn,Medium,0,1,1
-67,Zn,Optimum,0,,0
+67,Zn,Optimum,0,0,0
 67,B,Very Low,0,0,0
 67,B,Low,0,0,0
 67,B,Medium,0,0,0
-67,B,Optimum,0,,0
+67,B,Optimum,0,0,0
 67,Mo,Very Low,0,0,0
 67,Mo,Low,0,0,0
 67,Mo,Medium,0,0,0
-67,Mo,Optimum,0,,0
+67,Mo,Optimum,0,0,0
 67,Mg,Very Low,0,0,0
 67,Mg,Low,0,0,0
 67,Mg,Medium,0,0,0
-67,Mg,Optimum,0,,0
+67,Mg,Optimum,0,0,0
 68,N,Very Low,0,28,7
 68,N,Low,0,21,7
 68,N,Medium,0,14,7
@@ -2225,19 +2225,19 @@
 68,Zn,Very Low,0,1.8,0.6
 68,Zn,Low,0,1.2,0.6
 68,Zn,Medium,0,0.6,0.6
-68,Zn,Optimum,0,,0
+68,Zn,Optimum,0,0,0
 68,B,Very Low,0,1.8,0.6
 68,B,Low,0,1.2,0.6
 68,B,Medium,0,0.6,0.6
-68,B,Optimum,0,,0
+68,B,Optimum,0,0,0
 68,Mo,Very Low,0,0,0
 68,Mo,Low,0,0,0
 68,Mo,Medium,0,0,0
-68,Mo,Optimum,0,,0
+68,Mo,Optimum,0,0,0
 68,Mg,Very Low,0,0,0
 68,Mg,Low,0,0,0
 68,Mg,Medium,0,0,0
-68,Mg,Optimum,0,,0
+68,Mg,Optimum,0,0,0
 69,N,Very Low,0,100,25
 69,N,Low,0,75,25
 69,N,Medium,0,50,25
@@ -2257,19 +2257,19 @@
 69,Zn,Very Low,0,3,1
 69,Zn,Low,0,2,1
 69,Zn,Medium,0,1,1
-69,Zn,Optimum,0,,0
+69,Zn,Optimum,0,0,0
 69,B,Very Low,0,2.1,0.7
 69,B,Low,0,1.4,0.7
 69,B,Medium,0,0.7,0.7
-69,B,Optimum,0,,0
+69,B,Optimum,0,0,0
 69,Mo,Very Low,0,0,0
 69,Mo,Low,0,0,0
 69,Mo,Medium,0,0,0
-69,Mo,Optimum,0,,0
+69,Mo,Optimum,0,0,0
 69,Mg,Very Low,0,0,0
 69,Mg,Low,0,0,0
 69,Mg,Medium,0,0,0
-69,Mg,Optimum,0,,0
+69,Mg,Optimum,0,0,0
 70,N,Very Low,0,60,15
 70,N,Low,0,45,15
 70,N,Medium,0,30,15
@@ -2289,19 +2289,19 @@
 70,Zn,Very Low,0,2.1,0.7
 70,Zn,Low,0,1.4,0.7
 70,Zn,Medium,0,0.7,0.7
-70,Zn,Optimum,0,,0
+70,Zn,Optimum,0,0,0
 70,B,Very Low,0,0,0
 70,B,Low,0,0,0
 70,B,Medium,0,0,0
-70,B,Optimum,0,,0
+70,B,Optimum,0,0,0
 70,Mo,Very Low,0,0,0
 70,Mo,Low,0,0,0
 70,Mo,Medium,0,0,0
-70,Mo,Optimum,0,,0
+70,Mo,Optimum,0,0,0
 70,Mg,Very Low,0,0,0
 70,Mg,Low,0,0,0
 70,Mg,Medium,0,0,0
-70,Mg,Optimum,0,,0
+70,Mg,Optimum,0,0,0
 71,N,Very Low,0,100,25
 71,N,Low,0,75,25
 71,N,Medium,0,50,25
@@ -2321,19 +2321,19 @@
 71,Zn,Very Low,0,3,1
 71,Zn,Low,0,2,1
 71,Zn,Medium,0,1,1
-71,Zn,Optimum,0,,0
+71,Zn,Optimum,0,0,0
 71,B,Very Low,0,2.1,0.7
 71,B,Low,0,1.4,0.7
 71,B,Medium,0,0.7,0.7
-71,B,Optimum,0,,0.7
+71,B,Optimum,0,0,0.7
 71,Mo,Very Low,0,0,0
 71,Mo,Low,0,0,0
 71,Mo,Medium,0,0,0
-71,Mo,Optimum,0,,0
+71,Mo,Optimum,0,0,0
 71,Mg,Very Low,0,0,0
 71,Mg,Low,0,0,0
 71,Mg,Medium,0,0,0
-71,Mg,Optimum,0,,0
+71,Mg,Optimum,0,0,0
 72,N,Very Low,0,80,20
 72,N,Low,0,60,20
 72,N,Medium,0,40,20
@@ -2353,19 +2353,19 @@
 72,Zn,Very Low,0,3,1
 72,Zn,Low,0,2,1
 72,Zn,Medium,0,1,1
-72,Zn,Optimum,0,,0
+72,Zn,Optimum,0,0,0
 72,B,Very Low,0,2.1,0.7
 72,B,Low,0,1.4,0.7
 72,B,Medium,0,0.7,0.7
-72,B,Optimum,0,,0
+72,B,Optimum,0,0,0
 72,Mo,Very Low,0,0,0
 72,Mo,Low,0,0,0
 72,Mo,Medium,0,0,0
-72,Mo,Optimum,0,,0
+72,Mo,Optimum,0,0,0
 72,Mg,Very Low,0,0,0
 72,Mg,Low,0,0,0
 72,Mg,Medium,0,0,0
-72,Mg,Optimum,0,,0
+72,Mg,Optimum,0,0,0
 73,N,Very Low,0,80,20
 73,N,Low,0,60,20
 73,N,Medium,0,40,20
@@ -2385,19 +2385,19 @@
 73,Zn,Very Low,0,3,1
 73,Zn,Low,0,2,1
 73,Zn,Medium,0,1,1
-73,Zn,Optimum,0,,0
+73,Zn,Optimum,0,0,0
 73,B,Very Low,0,2.1,0.7
 73,B,Low,0,1.4,0.7
 73,B,Medium,0,0.7,0.7
-73,B,Optimum,0,,0
+73,B,Optimum,0,0,0
 73,Mo,Very Low,0,0,0
 73,Mo,Low,0,0,0
 73,Mo,Medium,0,0,0
-73,Mo,Optimum,0,,0
+73,Mo,Optimum,0,0,0
 73,Mg,Very Low,0,0,0
 73,Mg,Low,0,0,0
 73,Mg,Medium,0,0,0
-73,Mg,Optimum,0,,0
+73,Mg,Optimum,0,0,0
 74,N,Very Low,0,80,20
 74,N,Low,0,60,20
 74,N,Medium,0,40,20
@@ -2417,19 +2417,19 @@
 74,Zn,Very Low,0,3,1
 74,Zn,Low,0,2,1
 74,Zn,Medium,0,1,1
-74,Zn,Optimum,0,,0
+74,Zn,Optimum,0,0,0
 74,B,Very Low,0,2.1,0.7
 74,B,Low,0,1.4,0.7
 74,B,Medium,0,0.7,0.7
-74,B,Optimum,0,,0
+74,B,Optimum,0,0,0
 74,Mo,Very Low,0,0,0
 74,Mo,Low,0,0,0
 74,Mo,Medium,0,0,0
-74,Mo,Optimum,0,,0
+74,Mo,Optimum,0,0,0
 74,Mg,Very Low,0,0,0
 74,Mg,Low,0,0,0
 74,Mg,Medium,0,0,0
-74,Mg,Optimum,0,,0
+74,Mg,Optimum,0,0,0
 75,N,Very Low,0,100,25
 75,N,Low,0,75,25
 75,N,Medium,0,50,25
@@ -2449,19 +2449,19 @@
 75,Zn,Very Low,0,0,0
 75,Zn,Low,0,0,0
 75,Zn,Medium,0,0,0
-75,Zn,Optimum,0,,0
+75,Zn,Optimum,0,0,0
 75,B,Very Low,0,0,0
 75,B,Low,0,0,0
 75,B,Medium,0,0,0
-75,B,Optimum,0,,0
+75,B,Optimum,0,0,0
 75,Mo,Very Low,0,0,0
 75,Mo,Low,0,0,0
 75,Mo,Medium,0,0,0
-75,Mo,Optimum,0,,0
+75,Mo,Optimum,0,0,0
 75,Mg,Very Low,0,0,0
 75,Mg,Low,0,0,0
 75,Mg,Medium,0,0,0
-75,Mg,Optimum,0,,0
+75,Mg,Optimum,0,0,0
 76,N,Very Low,0,120,30
 76,N,Low,0,90,30
 76,N,Medium,0,60,30
@@ -2481,19 +2481,19 @@
 76,Zn,Very Low,0,3,1
 76,Zn,Low,0,2,1
 76,Zn,Medium,0,1,1
-76,Zn,Optimum,0,,0
+76,Zn,Optimum,0,0,0
 76,B,Very Low,0,1.5,0.5
 76,B,Low,0,1,0.5
 76,B,Medium,0,0.5,0.5
-76,B,Optimum,0,,0
+76,B,Optimum,0,0,0
 76,Mo,Very Low,0,0,0
 76,Mo,Low,0,0,0
 76,Mo,Medium,0,0,0
-76,Mo,Optimum,0,,0
+76,Mo,Optimum,0,0,0
 76,Mg,Very Low,0,0,0
 76,Mg,Low,0,0,0
 76,Mg,Medium,0,0,0
-76,Mg,Optimum,0,,0
+76,Mg,Optimum,0,0,0
 77,N,Very Low,0,100,25
 77,N,Low,0,75,25
 77,N,Medium,0,50,25
@@ -2513,19 +2513,19 @@
 77,Zn,Very Low,0,3,1
 77,Zn,Low,0,2,1
 77,Zn,Medium,0,1,1
-77,Zn,Optimum,0,,0
+77,Zn,Optimum,0,0,0
 77,B,Very Low,0,2.1,0.7
 77,B,Low,0,1.4,0.7
 77,B,Medium,0,0.7,0.7
-77,B,Optimum,0,,0
+77,B,Optimum,0,0,0
 77,Mo,Very Low,0,0,0
 77,Mo,Low,0,0,0
 77,Mo,Medium,0,0,0
-77,Mo,Optimum,0,,0
+77,Mo,Optimum,0,0,0
 77,Mg,Very Low,0,0,0
 77,Mg,Low,0,0,0
 77,Mg,Medium,0,0,0
-77,Mg,Optimum,0,,0
+77,Mg,Optimum,0,0,0
 78,N,Very Low,0,100,25
 78,N,Low,0,75,25
 78,N,Medium,0,50,25
@@ -2545,19 +2545,19 @@
 78,Zn,Very Low,0,3,1
 78,Zn,Low,0,2,1
 78,Zn,Medium,0,1,1
-78,Zn,Optimum,0,,0
+78,Zn,Optimum,0,0,0
 78,B,Very Low,0,2.1,0.7
 78,B,Low,0,1.4,0.7
 78,B,Medium,0,0.7,0.7
-78,B,Optimum,0,,0
+78,B,Optimum,0,0,0
 78,Mo,Very Low,0,0,0
 78,Mo,Low,0,0,0
 78,Mo,Medium,0,0,0
-78,Mo,Optimum,0,,0
+78,Mo,Optimum,0,0,0
 78,Mg,Very Low,0,0,0
 78,Mg,Low,0,0,0
 78,Mg,Medium,0,0,0
-78,Mg,Optimum,0,,0
+78,Mg,Optimum,0,0,0
 79,N,Very Low,0,100,25
 79,N,Low,0,75,25
 79,N,Medium,0,50,25
@@ -2577,19 +2577,19 @@
 79,Zn,Very Low,0,3,1
 79,Zn,Low,0,2,1
 79,Zn,Medium,0,1,1
-79,Zn,Optimum,0,,0
+79,Zn,Optimum,0,0,0
 79,B,Very Low,0,2.1,0.7
 79,B,Low,0,1.4,0.7
 79,B,Medium,0,0.7,0.7
-79,B,Optimum,0,,0
+79,B,Optimum,0,0,0
 79,Mo,Very Low,0,0,0
 79,Mo,Low,0,0,0
 79,Mo,Medium,0,0,0
-79,Mo,Optimum,0,,0
+79,Mo,Optimum,0,0,0
 79,Mg,Very Low,0,0,0
 79,Mg,Low,0,0,0
 79,Mg,Medium,0,0,0
-79,Mg,Optimum,0,,0
+79,Mg,Optimum,0,0,0
 80,N,Very Low,0,100,25
 80,N,Low,0,75,25
 80,N,Medium,0,50,25
@@ -2609,19 +2609,19 @@
 80,Zn,Very Low,0,3,1
 80,Zn,Low,0,2,1
 80,Zn,Medium,0,1,1
-80,Zn,Optimum,0,,0
+80,Zn,Optimum,0,0,0
 80,B,Very Low,0,2.1,0.7
 80,B,Low,0,1.4,0.7
 80,B,Medium,0,0.7,0.7
-80,B,Optimum,0,,0
+80,B,Optimum,0,0,0
 80,Mo,Very Low,0,0,0
 80,Mo,Low,0,0,0
 80,Mo,Medium,0,0,0
-80,Mo,Optimum,0,,0
+80,Mo,Optimum,0,0,0
 80,Mg,Very Low,0,0,0
 80,Mg,Low,0,0,0
 80,Mg,Medium,0,0,0
-80,Mg,Optimum,0,,0
+80,Mg,Optimum,0,0,0
 81,N,Very Low,0,120,30
 81,N,Low,0,90,30
 81,N,Medium,0,60,30
@@ -2641,19 +2641,19 @@
 81,Zn,Very Low,0,0,0
 81,Zn,Low,0,0,0
 81,Zn,Medium,0,0,0
-81,Zn,Optimum,0,,0
+81,Zn,Optimum,0,0,0
 81,B,Very Low,0,0,0
 81,B,Low,0,0,0
 81,B,Medium,0,0,0
-81,B,Optimum,0,,0
+81,B,Optimum,0,0,0
 81,Mo,Very Low,0,0,0
 81,Mo,Low,0,0,0
 81,Mo,Medium,0,0,0
-81,Mo,Optimum,0,,0
+81,Mo,Optimum,0,0,0
 81,Mg,Very Low,0,0,0
 81,Mg,Low,0,0,0
 81,Mg,Medium,0,0,0
-81,Mg,Optimum,0,,0
+81,Mg,Optimum,0,0,0
 82,N,Very Low,0,140,35
 82,N,Low,0,105,35
 82,N,Medium,0,70,35
@@ -2673,19 +2673,19 @@
 82,Zn,Very Low,0,0,0
 82,Zn,Low,0,0,0
 82,Zn,Medium,0,0,0
-82,Zn,Optimum,0,,0
+82,Zn,Optimum,0,0,0
 82,B,Very Low,0,0,0
 82,B,Low,0,0,0
 82,B,Medium,0,0,0
-82,B,Optimum,0,,0
+82,B,Optimum,0,0,0
 82,Mo,Very Low,0,0,0
 82,Mo,Low,0,0,0
 82,Mo,Medium,0,0,0
-82,Mo,Optimum,0,,0
+82,Mo,Optimum,0,0,0
 82,Mg,Very Low,0,0,0
 82,Mg,Low,0,0,0
 82,Mg,Medium,0,0,0
-82,Mg,Optimum,0,,0
+82,Mg,Optimum,0,0,0
 83,N,Very Low,0,60,15
 83,N,Low,0,45,15
 83,N,Medium,0,30,15
@@ -2705,19 +2705,19 @@
 83,Zn,Very Low,0,0,0
 83,Zn,Low,0,0,0
 83,Zn,Medium,0,0,0
-83,Zn,Optimum,0,,0
+83,Zn,Optimum,0,0,0
 83,B,Very Low,0,0,0
 83,B,Low,0,0,0
 83,B,Medium,0,0,0
-83,B,Optimum,0,,0
+83,B,Optimum,0,0,0
 83,Mo,Very Low,0,0,0
 83,Mo,Low,0,0,0
 83,Mo,Medium,0,0,0
-83,Mo,Optimum,0,,0
+83,Mo,Optimum,0,0,0
 83,Mg,Very Low,0,0,0
 83,Mg,Low,0,0,0
 83,Mg,Medium,0,0,0
-83,Mg,Optimum,0,,0
+83,Mg,Optimum,0,0,0
 84,N,Very Low,0,120,30
 84,N,Low,0,90,30
 84,N,Medium,0,60,30
@@ -2737,19 +2737,19 @@
 84,Zn,Very Low,0,0,0
 84,Zn,Low,0,0,0
 84,Zn,Medium,0,0,0
-84,Zn,Optimum,0,,0
+84,Zn,Optimum,0,0,0
 84,B,Very Low,0,0,0
 84,B,Low,0,0,0
 84,B,Medium,0,0,0
-84,B,Optimum,0,,0
+84,B,Optimum,0,0,0
 84,Mo,Very Low,0,0,0
 84,Mo,Low,0,0,0
 84,Mo,Medium,0,0,0
-84,Mo,Optimum,0,,0
+84,Mo,Optimum,0,0,0
 84,Mg,Very Low,0,0,0
 84,Mg,Low,0,0,0
 84,Mg,Medium,0,0,0
-84,Mg,Optimum,0,,0
+84,Mg,Optimum,0,0,0
 85,N,Very Low,0,100,25
 85,N,Low,0,75,25
 85,N,Medium,0,50,25
@@ -2769,19 +2769,19 @@
 85,Zn,Very Low,0,0,0
 85,Zn,Low,0,0,0
 85,Zn,Medium,0,0,0
-85,Zn,Optimum,0,,0
+85,Zn,Optimum,0,0,0
 85,B,Very Low,0,0,0
 85,B,Low,0,0,0
 85,B,Medium,0,0,0
-85,B,Optimum,0,,0
+85,B,Optimum,0,0,0
 85,Mo,Very Low,0,0,0
 85,Mo,Low,0,0,0
 85,Mo,Medium,0,0,0
-85,Mo,Optimum,0,,0
+85,Mo,Optimum,0,0,0
 85,Mg,Very Low,0,0,0
 85,Mg,Low,0,0,0
 85,Mg,Medium,0,0,0
-85,Mg,Optimum,0,,0
+85,Mg,Optimum,0,0,0
 86,N,Very Low,0,140,35
 86,N,Low,0,105,35
 86,N,Medium,0,70,35
@@ -2801,19 +2801,19 @@
 86,Zn,Very Low,0,4.5,1.5
 86,Zn,Low,0,3,1.5
 86,Zn,Medium,0,1.5,1.5
-86,Zn,Optimum,0,,0
+86,Zn,Optimum,0,0,0
 86,B,Very Low,0,2.1,0.7
 86,B,Low,0,1.4,0.7
 86,B,Medium,0,0.7,0.7
-86,B,Optimum,0,,0
+86,B,Optimum,0,0,0
 86,Mo,Very Low,0,0,0
 86,Mo,Low,0,0,0
 86,Mo,Medium,0,0,0
-86,Mo,Optimum,0,,0
+86,Mo,Optimum,0,0,0
 86,Mg,Very Low,0,0,0
 86,Mg,Low,0,0,0
 86,Mg,Medium,0,0,0
-86,Mg,Optimum,0,,0
+86,Mg,Optimum,0,0,0
 87,N,Very Low,0,100,25
 87,N,Low,0,75,25
 87,N,Medium,0,50,25
@@ -2833,19 +2833,19 @@
 87,Zn,Very Low,0,3,1
 87,Zn,Low,0,2,1
 87,Zn,Medium,0,1,1
-87,Zn,Optimum,0,,0
+87,Zn,Optimum,0,0,0
 87,B,Very Low,0,1.5,0.5
 87,B,Low,0,1,0.5
 87,B,Medium,0,0.5,0.5
-87,B,Optimum,0,,0
+87,B,Optimum,0,0,0
 87,Mo,Very Low,0,0,0
 87,Mo,Low,0,0,0
 87,Mo,Medium,0,0,0
-87,Mo,Optimum,0,,0
+87,Mo,Optimum,0,0,0
 87,Mg,Very Low,0,0,0
 87,Mg,Low,0,0,0
 87,Mg,Medium,0,0,0
-87,Mg,Optimum,0,,0
+87,Mg,Optimum,0,0,0
 88,N,Very Low,0,160,40
 88,N,Low,0,120,40
 88,N,Medium,0,80,40
@@ -2865,19 +2865,19 @@
 88,Zn,Very Low,0,4.5,1.5
 88,Zn,Low,0,3,1.5
 88,Zn,Medium,0,1.5,1.5
-88,Zn,Optimum,0,,1.5
+88,Zn,Optimum,0,0,1.5
 88,B,Very Low,0,2.1,0.7
 88,B,Low,0,1.4,0.7
 88,B,Medium,0,0.7,0.7
-88,B,Optimum,0,,0
+88,B,Optimum,0,0,0
 88,Mo,Very Low,0,0,0
 88,Mo,Low,0,0,0
 88,Mo,Medium,0,0,0
-88,Mo,Optimum,0,,0
+88,Mo,Optimum,0,0,0
 88,Mg,Very Low,0,0,0
 88,Mg,Low,0,0,0
 88,Mg,Medium,0,0,0
-88,Mg,Optimum,0,,0
+88,Mg,Optimum,0,0,0
 89,N,Very Low,0,152,38
 89,N,Low,0,114,38
 89,N,Medium,0,76,38
@@ -2905,11 +2905,11 @@
 89,Mo,Very Low,0,0,0
 89,Mo,Low,0,0,0
 89,Mo,Medium,0,0,0
-89,Mo,Optimum,0,,0
+89,Mo,Optimum,0,0,0
 89,Mg,Very Low,0,0,0
 89,Mg,Low,0,0,0
 89,Mg,Medium,0,0,0
-89,Mg,Optimum,0,,0
+89,Mg,Optimum,0,0,0
 90,N,Very Low,0,180,45
 90,N,Low,0,135,45
 90,N,Medium,0,90,45
@@ -2929,19 +2929,19 @@
 90,Zn,Very Low,0,4.5,1.5
 90,Zn,Low,0,3,1.5
 90,Zn,Medium,0,1.5,1.5
-90,Zn,Optimum,0,,1.5
+90,Zn,Optimum,0,0,1.5
 90,B,Very Low,0,1.5,0.5
 90,B,Low,0,1,0.5
 90,B,Medium,0,0.5,0.5
-90,B,Optimum,0,,0
+90,B,Optimum,0,0,0
 90,Mo,Very Low,0,0,0
 90,Mo,Low,0,0,0
 90,Mo,Medium,0,0,0
-90,Mo,Optimum,0,,0
+90,Mo,Optimum,0,0,0
 90,Mg,Very Low,0,0,0
 90,Mg,Low,0,0,0
 90,Mg,Medium,0,0,0
-90,Mg,Optimum,0,,0
+90,Mg,Optimum,0,0,0
 91,N,Very Low,0,140,35
 91,N,Low,0,105,35
 91,N,Medium,0,70,35
@@ -2961,19 +2961,19 @@
 91,Zn,Very Low,0,4.5,1.5
 91,Zn,Low,0,3,1.5
 91,Zn,Medium,0,1.5,1.5
-91,Zn,Optimum,0,,1.5
+91,Zn,Optimum,0,0,1.5
 91,B,Very Low,0,2.1,0.7
 91,B,Low,0,1.4,0.7
 91,B,Medium,0,0.7,0.7
-91,B,Optimum,0,,0
+91,B,Optimum,0,0,0
 91,Mo,Very Low,0,0,0
 91,Mo,Low,0,0,0
 91,Mo,Medium,0,0,0
-91,Mo,Optimum,0,,0
+91,Mo,Optimum,0,0,0
 91,Mg,Very Low,0,0,0
 91,Mg,Low,0,0,0
 91,Mg,Medium,0,0,0
-91,Mg,Optimum,0,,0
+91,Mg,Optimum,0,0,0
 92,N,Very Low,0,128,32
 92,N,Low,0,96,32
 92,N,Medium,0,64,32
@@ -2997,15 +2997,15 @@
 92,B,Very Low,0,2.1,0.7
 92,B,Low,0,1.4,0.7
 92,B,Medium,0,0.7,0.7
-92,B,Optimum,0,,0
+92,B,Optimum,0,0,0
 92,Mo,Very Low,0,0,0
 92,Mo,Low,0,0,0
 92,Mo,Medium,0,0,0
-92,Mo,Optimum,0,,0
+92,Mo,Optimum,0,0,0
 92,Mg,Very Low,0,0,0
 92,Mg,Low,0,0,0
 92,Mg,Medium,0,0,0
-92,Mg,Optimum,0,,0
+92,Mg,Optimum,0,0,0
 93,N,Very Low,0,100,25
 93,N,Low,0,75,25
 93,N,Medium,0,50,25
@@ -3025,19 +3025,19 @@
 93,Zn,Very Low,0,3,1
 93,Zn,Low,0,2,1
 93,Zn,Medium,0,1,1
-93,Zn,Optimum,0,,0
+93,Zn,Optimum,0,0,0
 93,B,Very Low,0,2.1,0.7
 93,B,Low,0,1.4,0.7
 93,B,Medium,0,0.7,0.7
-93,B,Optimum,0,,0
+93,B,Optimum,0,0,0
 93,Mo,Very Low,0,0,0
 93,Mo,Low,0,0,0
 93,Mo,Medium,0,0,0
-93,Mo,Optimum,0,,0
+93,Mo,Optimum,0,0,0
 93,Mg,Very Low,0,0,0
 93,Mg,Low,0,0,0
 93,Mg,Medium,0,0,0
-93,Mg,Optimum,0,,0
+93,Mg,Optimum,0,0,0
 94,N,Very Low,0,80,20
 94,N,Low,0,60,20
 94,N,Medium,0,40,20
@@ -3057,19 +3057,19 @@
 94,Zn,Very Low,0,3,1
 94,Zn,Low,0,2,1
 94,Zn,Medium,0,1,1
-94,Zn,Optimum,0,,0
+94,Zn,Optimum,0,0,0
 94,B,Very Low,0,2.1,0.7
 94,B,Low,0,1.4,0.7
 94,B,Medium,0,0.7,0.7
-94,B,Optimum,0,,0
+94,B,Optimum,0,0,0
 94,Mo,Very Low,0,0,0
 94,Mo,Low,0,0,0
 94,Mo,Medium,0,0,0
-94,Mo,Optimum,0,,0
+94,Mo,Optimum,0,0,0
 94,Mg,Very Low,0,0,0
 94,Mg,Low,0,0,0
 94,Mg,Medium,0,0,0
-94,Mg,Optimum,0,,0
+94,Mg,Optimum,0,0,0
 95,N,Very Low,0,100,25
 95,N,Low,0,75,25
 95,N,Medium,0,50,25
@@ -3089,19 +3089,19 @@
 95,Zn,Very Low,0,3,1
 95,Zn,Low,0,2,1
 95,Zn,Medium,0,1,1
-95,Zn,Optimum,0,,0
+95,Zn,Optimum,0,0,0
 95,B,Very Low,0,2.1,0.7
 95,B,Low,0,1.4,0.7
 95,B,Medium,0,0.7,0.7
-95,B,Optimum,0,,0
+95,B,Optimum,0,0,0
 95,Mo,Very Low,0,0,0
 95,Mo,Low,0,0,0
 95,Mo,Medium,0,0,0
-95,Mo,Optimum,0,,0
+95,Mo,Optimum,0,0,0
 95,Mg,Very Low,0,0,0
 95,Mg,Low,0,0,0
 95,Mg,Medium,0,0,0
-95,Mg,Optimum,0,,0
+95,Mg,Optimum,0,0,0
 97,N,Very Low,0,240,60
 97,N,Low,0,180,60
 97,N,Medium,0,120,60
@@ -3121,15 +3121,15 @@
 97,Zn,Very Low,0,7.5,2.5
 97,Zn,Low,0,5,2.5
 97,Zn,Medium,0,2.5,2.5
-97,Zn,Optimum,0,,0
+97,Zn,Optimum,0,0,0
 97,B,Very Low,0,0,0
 97,B,Low,0,0,0
 97,B,Medium,0,0,0
-97,B,Optimum,0,,0
+97,B,Optimum,0,0,0
 97,Mo,Very Low,0,0,0
 97,Mo,Low,0,0,0
 97,Mo,Medium,0,0,0
-97,Mo,Optimum,0,,0
+97,Mo,Optimum,0,0,0
 97,Mg,Very Low,0,40,10
 97,Mg,Low,0,30,10
 97,Mg,Medium,0,20,10
@@ -3153,19 +3153,19 @@
 98,Zn,Very Low,0,1.8,0.6
 98,Zn,Low,0,1.2,0.6
 98,Zn,Medium,0,0.6,0.6
-98,Zn,Optimum,0,,0
+98,Zn,Optimum,0,0,0
 98,B,Very Low,0,0,0
 98,B,Low,0,0,0
 98,B,Medium,0,0,0
-98,B,Optimum,0,,0
+98,B,Optimum,0,0,0
 98,Mo,Very Low,0,0,0
 98,Mo,Low,0,0,0
 98,Mo,Medium,0,0,0
-98,Mo,Optimum,0,,0
+98,Mo,Optimum,0,0,0
 98,Mg,Very Low,0,0,0
 98,Mg,Low,0,0,0
 98,Mg,Medium,0,0,0
-98,Mg,Optimum,0,,0
+98,Mg,Optimum,0,0,0
 99,N,Very Low,0,80,20
 99,N,Low,0,60,20
 99,N,Medium,0,40,20
@@ -3185,19 +3185,19 @@
 99,Zn,Very Low,0,3,1
 99,Zn,Low,0,2,1
 99,Zn,Medium,0,1,1
-99,Zn,Optimum,0,,0
+99,Zn,Optimum,0,0,0
 99,B,Very Low,0,0,0
 99,B,Low,0,0,0
 99,B,Medium,0,0,0
-99,B,Optimum,0,,0
+99,B,Optimum,0,0,0
 99,Mo,Very Low,0,0,0
 99,Mo,Low,0,0,0
 99,Mo,Medium,0,0,0
-99,Mo,Optimum,0,,0
+99,Mo,Optimum,0,0,0
 99,Mg,Very Low,0,0,0
 99,Mg,Low,0,0,0
 99,Mg,Medium,0,0,0
-99,Mg,Optimum,0,,0
+99,Mg,Optimum,0,0,0
 100,N,Very Low,0,180,45
 100,N,Low,0,135,45
 100,N,Medium,0,90,45
@@ -3217,19 +3217,19 @@
 100,Zn,Very Low,0,6,2
 100,Zn,Low,0,4,2
 100,Zn,Medium,0,2,2
-100,Zn,Optimum,0,,0
+100,Zn,Optimum,0,0,0
 100,B,Very Low,0,0,0
 100,B,Low,0,0,0
 100,B,Medium,0,0,0
-100,B,Optimum,0,,0
+100,B,Optimum,0,0,0
 100,Mo,Very Low,0,0,0
 100,Mo,Low,0,0,0
 100,Mo,Medium,0,0,0
-100,Mo,Optimum,0,,0
+100,Mo,Optimum,0,0,0
 100,Mg,Very Low,0,0,0
 100,Mg,Low,0,0,0
 100,Mg,Medium,0,0,0
-100,Mg,Optimum,0,,0
+100,Mg,Optimum,0,0,0
 101,N,Very Low,0,160,40
 101,N,Low,0,120,40
 101,N,Medium,0,80,40
@@ -3249,19 +3249,19 @@
 101,Zn,Very Low,0,6,2
 101,Zn,Low,0,4,2
 101,Zn,Medium,0,2,2
-101,Zn,Optimum,0,,0
+101,Zn,Optimum,0,0,0
 101,B,Very Low,0,0,0
 101,B,Low,0,0,0
 101,B,Medium,0,0,0
-101,B,Optimum,0,,0
+101,B,Optimum,0,0,0
 101,Mo,Very Low,0,0,0
 101,Mo,Low,0,0,0
 101,Mo,Medium,0,0,0
-101,Mo,Optimum,0,,0
+101,Mo,Optimum,0,0,0
 101,Mg,Very Low,0,0,0
 101,Mg,Low,0,0,0
 101,Mg,Medium,0,0,0
-101,Mg,Optimum,0,,0
+101,Mg,Optimum,0,0,0
 102,N,Very Low,0,140,35
 102,N,Low,0,105,35
 102,N,Medium,0,70,35
@@ -3281,19 +3281,19 @@
 102,Zn,Very Low,0,6,2
 102,Zn,Low,0,4,2
 102,Zn,Medium,0,2,2
-102,Zn,Optimum,0,,0
+102,Zn,Optimum,0,0,0
 102,B,Very Low,0,0,0
 102,B,Low,0,0,0
 102,B,Medium,0,0,0
-102,B,Optimum,0,,0
+102,B,Optimum,0,0,0
 102,Mo,Very Low,0,0,0
 102,Mo,Low,0,0,0
 102,Mo,Medium,0,0,0
-102,Mo,Optimum,0,,0
+102,Mo,Optimum,0,0,0
 102,Mg,Very Low,0,0,0
 102,Mg,Low,0,0,0
 102,Mg,Medium,0,0,0
-102,Mg,Optimum,0,,0
+102,Mg,Optimum,0,0,0
 103,N,Very Low,0,200,50
 103,N,Low,0,150,50
 103,N,Medium,0,100,50
@@ -3313,19 +3313,19 @@
 103,Zn,Very Low,0,6,2
 103,Zn,Low,0,4,2
 103,Zn,Medium,0,2,2
-103,Zn,Optimum,0,,0
+103,Zn,Optimum,0,0,0
 103,B,Very Low,0,0,0
 103,B,Low,0,0,0
 103,B,Medium,0,0,0
-103,B,Optimum,0,,0
+103,B,Optimum,0,0,0
 103,Mo,Very Low,0,0,0
 103,Mo,Low,0,0,0
 103,Mo,Medium,0,0,0
-103,Mo,Optimum,0,,0
+103,Mo,Optimum,0,0,0
 103,Mg,Very Low,0,0,0
 103,Mg,Low,0,0,0
 103,Mg,Medium,0,0,0
-103,Mg,Optimum,0,,0
+103,Mg,Optimum,0,0,0
 104,N,Very Low,0,180,45
 104,N,Low,0,135,45
 104,N,Medium,0,90,45
@@ -3345,19 +3345,19 @@
 104,Zn,Very Low,0,6,2
 104,Zn,Low,0,4,2
 104,Zn,Medium,0,2,2
-104,Zn,Optimum,0,,0
+104,Zn,Optimum,0,0,0
 104,B,Very Low,0,0,0
 104,B,Low,0,0,0
 104,B,Medium,0,0,0
-104,B,Optimum,0,,0
+104,B,Optimum,0,0,0
 104,Mo,Very Low,0,0,0
 104,Mo,Low,0,0,0
 104,Mo,Medium,0,0,0
-104,Mo,Optimum,0,,0
+104,Mo,Optimum,0,0,0
 104,Mg,Very Low,0,0,0
 104,Mg,Low,0,0,0
 104,Mg,Medium,0,0,0
-104,Mg,Optimum,0,,0
+104,Mg,Optimum,0,0,0
 105,N,Very Low,0,160,40
 105,N,Low,0,120,40
 105,N,Medium,0,80,40
@@ -3377,19 +3377,19 @@
 105,Zn,Very Low,0,6,2
 105,Zn,Low,0,4,2
 105,Zn,Medium,0,2,2
-105,Zn,Optimum,0,,0
+105,Zn,Optimum,0,0,0
 105,B,Very Low,0,0,0
 105,B,Low,0,0,0
 105,B,Medium,0,0,0
-105,B,Optimum,0,,0
+105,B,Optimum,0,0,0
 105,Mo,Very Low,0,0,0
 105,Mo,Low,0,0,0
 105,Mo,Medium,0,0,0
-105,Mo,Optimum,0,,0
+105,Mo,Optimum,0,0,0
 105,Mg,Very Low,0,0,0
 105,Mg,Low,0,0,0
 105,Mg,Medium,0,0,0
-105,Mg,Optimum,0,,0
+105,Mg,Optimum,0,0,0
 106,N,Very Low,0,60,15
 106,N,Low,0,45,15
 106,N,Medium,0,30,15
@@ -3409,19 +3409,19 @@
 106,Zn,Very Low,0,6,2
 106,Zn,Low,0,4,2
 106,Zn,Medium,0,2,2
-106,Zn,Optimum,0,,0
+106,Zn,Optimum,0,0,0
 106,B,Very Low,0,0,0
 106,B,Low,0,0,0
 106,B,Medium,0,0,0
-106,B,Optimum,0,,0
+106,B,Optimum,0,0,0
 106,Mo,Very Low,0,0,0
 106,Mo,Low,0,0,0
 106,Mo,Medium,0,0,0
-106,Mo,Optimum,0,,0
+106,Mo,Optimum,0,0,0
 106,Mg,Very Low,0,0,0
 106,Mg,Low,0,0,0
 106,Mg,Medium,0,0,0
-106,Mg,Optimum,0,,0
+106,Mg,Optimum,0,0,0
 107,N,Very Low,0,240,60
 107,N,Low,0,180,60
 107,N,Medium,0,120,60
@@ -3441,19 +3441,19 @@
 107,Zn,Very Low,0,4.5,1.5
 107,Zn,Low,0,3,1.5
 107,Zn,Medium,0,1.5,1.5
-107,Zn,Optimum,0,,0
+107,Zn,Optimum,0,0,0
 107,B,Very Low,0,0,0
 107,B,Low,0,0,0
 107,B,Medium,0,0,0
-107,B,Optimum,0,,0
+107,B,Optimum,0,0,0
 107,Mo,Very Low,0,0,0
 107,Mo,Low,0,0,0
 107,Mo,Medium,0,0,0
-107,Mo,Optimum,0,,0
+107,Mo,Optimum,0,0,0
 107,Mg,Very Low,0,0,0
 107,Mg,Low,0,0,0
 107,Mg,Medium,0,0,0
-107,Mg,Optimum,0,,0
+107,Mg,Optimum,0,0,0
 108,N,Very Low,0,140,35
 108,N,Low,0,105,35
 108,N,Medium,0,70,35
@@ -3473,19 +3473,19 @@
 108,Zn,Very Low,0,3,1
 108,Zn,Low,0,2,1
 108,Zn,Medium,0,1,1
-108,Zn,Optimum,0,,0
+108,Zn,Optimum,0,0,0
 108,B,Very Low,0,2.1,0.7
 108,B,Low,0,1.4,0.7
 108,B,Medium,0,0.7,0.7
-108,B,Optimum,0,,0
+108,B,Optimum,0,0,0
 108,Mo,Very Low,0,0,0
 108,Mo,Low,0,0,0
 108,Mo,Medium,0,0,0
-108,Mo,Optimum,0,,0
+108,Mo,Optimum,0,0,0
 108,Mg,Very Low,0,0,0
 108,Mg,Low,0,0,0
 108,Mg,Medium,0,0,0
-108,Mg,Optimum,0,,0
+108,Mg,Optimum,0,0,0
 109,N,Very Low,0,120,30
 109,N,Low,0,90,30
 109,N,Medium,0,60,30
@@ -3498,26 +3498,26 @@
 109,K,Low,0,90,30
 109,K,Medium,0,60,30
 109,K,Optimum,0,30,30
-109,S,Very Low,0,,5
-109,S,Low,0,,5
-109,S,Medium,0,,5
-109,S,Optimum,0,,5
-109,Zn,Very Low,0,,2
-109,Zn,Low,0,,2
-109,Zn,Medium,0,,2
-109,Zn,Optimum,0,,2
-109,B,Very Low,0,,0
-109,B,Low,0,,0
-109,B,Medium,0,,0
-109,B,Optimum,0,,0
-109,Mo,Very Low,0,,0
-109,Mo,Low,0,,0
-109,Mo,Medium,0,,0
-109,Mo,Optimum,0,,0
-109,Mg,Very Low,0,,0
-109,Mg,Low,0,,0
-109,Mg,Medium,0,,0
-109,Mg,Optimum,0,,0
+109,S,Very Low,0,0,5
+109,S,Low,0,0,5
+109,S,Medium,0,0,5
+109,S,Optimum,0,0,5
+109,Zn,Very Low,0,0,2
+109,Zn,Low,0,0,2
+109,Zn,Medium,0,0,2
+109,Zn,Optimum,0,0,2
+109,B,Very Low,0,0,0
+109,B,Low,0,0,0
+109,B,Medium,0,0,0
+109,B,Optimum,0,0,0
+109,Mo,Very Low,0,0,0
+109,Mo,Low,0,0,0
+109,Mo,Medium,0,0,0
+109,Mo,Optimum,0,0,0
+109,Mg,Very Low,0,0,0
+109,Mg,Low,0,0,0
+109,Mg,Medium,0,0,0
+109,Mg,Optimum,0,0,0
 110,N,Very Low,0,180,45
 110,N,Low,0,135,45
 110,N,Medium,0,90,45
@@ -3530,26 +3530,26 @@
 110,K,Low,0,120,40
 110,K,Medium,0,80,40
 110,K,Optimum,0,40,40
-110,S,Very Low,0,,6
-110,S,Low,0,,6
-110,S,Medium,0,,6
-110,S,Optimum,0,,6
-110,Zn,Very Low,0,,3
-110,Zn,Low,0,,3
-110,Zn,Medium,0,,3
-110,Zn,Optimum,0,,3
-110,B,Very Low,0,,0
-110,B,Low,0,,0
-110,B,Medium,0,,0
-110,B,Optimum,0,,0
-110,Mo,Very Low,0,,0
-110,Mo,Low,0,,0
-110,Mo,Medium,0,,0
-110,Mo,Optimum,0,,0
-110,Mg,Very Low,0,,0
-110,Mg,Low,0,,0
-110,Mg,Medium,0,,0
-110,Mg,Optimum,0,,0
+110,S,Very Low,0,0,6
+110,S,Low,0,0,6
+110,S,Medium,0,0,6
+110,S,Optimum,0,0,6
+110,Zn,Very Low,0,0,3
+110,Zn,Low,0,0,3
+110,Zn,Medium,0,0,3
+110,Zn,Optimum,0,0,3
+110,B,Very Low,0,0,0
+110,B,Low,0,0,0
+110,B,Medium,0,0,0
+110,B,Optimum,0,0,0
+110,Mo,Very Low,0,0,0
+110,Mo,Low,0,0,0
+110,Mo,Medium,0,0,0
+110,Mo,Optimum,0,0,0
+110,Mg,Very Low,0,0,0
+110,Mg,Low,0,0,0
+110,Mg,Medium,0,0,0
+110,Mg,Optimum,0,0,0
 111,N,Very Low,0,140,35
 111,N,Low,0,105,35
 111,N,Medium,0,70,35
@@ -3562,26 +3562,26 @@
 111,K,Low,0,105,35
 111,K,Medium,0,70,35
 111,K,Optimum,0,35,35
-111,S,Very Low,0,,5
-111,S,Low,0,,5
-111,S,Medium,0,,5
-111,S,Optimum,0,,5
-111,Zn,Very Low,0,,2
-111,Zn,Low,0,,2
-111,Zn,Medium,0,,2
-111,Zn,Optimum,0,,2
-111,B,Very Low,0,,0
-111,B,Low,0,,0
-111,B,Medium,0,,0
-111,B,Optimum,0,,0
-111,Mo,Very Low,0,,0
-111,Mo,Low,0,,0
-111,Mo,Medium,0,,0
-111,Mo,Optimum,0,,0
-111,Mg,Very Low,0,,0
-111,Mg,Low,0,,0
-111,Mg,Medium,0,,0
-111,Mg,Optimum,0,,0
+111,S,Very Low,0,0,5
+111,S,Low,0,0,5
+111,S,Medium,0,0,5
+111,S,Optimum,0,0,5
+111,Zn,Very Low,0,0,2
+111,Zn,Low,0,0,2
+111,Zn,Medium,0,0,2
+111,Zn,Optimum,0,0,2
+111,B,Very Low,0,0,0
+111,B,Low,0,0,0
+111,B,Medium,0,0,0
+111,B,Optimum,0,0,0
+111,Mo,Very Low,0,0,0
+111,Mo,Low,0,0,0
+111,Mo,Medium,0,0,0
+111,Mo,Optimum,0,0,0
+111,Mg,Very Low,0,0,0
+111,Mg,Low,0,0,0
+111,Mg,Medium,0,0,0
+111,Mg,Optimum,0,0,0
 112,N,Very Low,0,300,75
 112,N,Low,0,225,75
 112,N,Medium,0,150,75
@@ -3598,22 +3598,22 @@
 112,S,Low,0,15,5
 112,S,Medium,0,10,5
 112,S,Optimum,0,5,5
-112,Zn,Very Low,0,,2
-112,Zn,Low,0,,2
-112,Zn,Medium,0,,2
-112,Zn,Optimum,0,,2
-112,B,Very Low,0,,1
-112,B,Low,0,,1
-112,B,Medium,0,,1
-112,B,Optimum,0,,1
-112,Mo,Very Low,0,,0
-112,Mo,Low,0,,0
-112,Mo,Medium,0,,0
-112,Mo,Optimum,0,,0
-112,Mg,Very Low,0,,0
-112,Mg,Low,0,,0
-112,Mg,Medium,0,,0
-112,Mg,Optimum,0,,0
+112,Zn,Very Low,0,0,2
+112,Zn,Low,0,0,2
+112,Zn,Medium,0,0,2
+112,Zn,Optimum,0,0,2
+112,B,Very Low,0,0,1
+112,B,Low,0,0,1
+112,B,Medium,0,0,1
+112,B,Optimum,0,0,1
+112,Mo,Very Low,0,0,0
+112,Mo,Low,0,0,0
+112,Mo,Medium,0,0,0
+112,Mo,Optimum,0,0,0
+112,Mg,Very Low,0,0,0
+112,Mg,Low,0,0,0
+112,Mg,Medium,0,0,0
+112,Mg,Optimum,0,0,0
 113,N,Very Low,0,240,60
 113,N,Low,0,180,60
 113,N,Medium,0,120,60

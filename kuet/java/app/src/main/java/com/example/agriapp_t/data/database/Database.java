@@ -46,12 +46,11 @@ public abstract class Database extends RoomDatabase {
     public static synchronized Database getInstance(Context context) {
         if (instance == null) {
             instance = Room.databaseBuilder(context.getApplicationContext(),
-                    Database.class, "database_alpha_5")
+                    Database.class, "database_alpha_12")
                     .addCallback(roomCallback)
                     .fallbackToDestructiveMigration()
                     .build();
         }
-        new PopulateDbAsyncTask(instance).execute();
         return instance;
     }
 
@@ -81,7 +80,45 @@ public abstract class Database extends RoomDatabase {
         @Override
         protected Void doInBackground(Void... voids) {
             List<String[]> parsedData = new CsvFileReader().read("crop_class.csv");
+            for (String[] data:
+                 parsedData) {
+                cropVarietyDao.insert(new CropVariety(data[0], data[1], Integer.valueOf(data[2]), Integer.valueOf(data[3])));
+            }
+
+            parsedData = new CsvFileReader().read("crop_group.csv");
+            for (String[] data:
+                    parsedData) {
+                cropSeasonDao.insert(new CropSeason(data[0], data[1], data[2]));
+            }
+
+            parsedData = new CsvFileReader().read("soil_analysis_interpretation.csv");
+            for (String[] data:
+                    parsedData) {
+                soilAnalysisDao.insert(new SoilAnalysisTable(Integer.parseInt(data[0]),
+                        data[1], data[2],
+                        Double.parseDouble(data[3]),
+                        Double.parseDouble(data[4]),
+                        Double.parseDouble(data[5])
+                        ));
+            }
+
+            parsedData = new CsvFileReader().read("soil_test_values_interpretation.csv");
             System.out.println(parsedData.size());
+            for (String[] data:
+                    parsedData) {
+                soilTestDao.insert(new SoilTestTable(data[0],
+                        data[1], data[2],
+                        Double.parseDouble(data[3]),
+                        Double.parseDouble(data[4]),
+                        Double.parseDouble(data[5])));
+            }
+
+            parsedData = new CsvFileReader().read("texture_class.csv");
+            for (String[] data:
+                    parsedData) {
+                soilTextureDao.insert(new SoilTextureTable(data[0], data[1], data[2]));
+            }
+
             return null;
         }
     }

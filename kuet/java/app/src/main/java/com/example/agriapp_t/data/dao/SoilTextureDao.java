@@ -1,7 +1,10 @@
 package com.example.agriapp_t.data.dao;
 
 import androidx.room.Dao;
+import androidx.room.Insert;
 import androidx.room.Query;
+
+import com.example.agriapp_t.data.model.table.SoilTextureTable;
 
 import java.util.List;
 
@@ -14,4 +17,7 @@ public interface SoilTextureDao {
 //    @Query("SELECT texture_class FROM SoilTextureTable " +
 //            "WHERE texture = :texture AND land_type = :cropLandType")
 //    public String getTextureClassByTexture(String texture, String cropLandType);
+
+    @Insert
+    void insert (SoilTextureTable soilTextureTable);
 }
