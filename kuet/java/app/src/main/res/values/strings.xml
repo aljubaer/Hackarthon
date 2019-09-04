@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgriApp-t</string>
+
+    <!--
+        Page: MainActivity
+        View: Bottom bar
+    -->
+    <string name="your_land">Your Land</string>
+    <string name="home">Home</string>
+</resources>

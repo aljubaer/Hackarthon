@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.crop_details.CurrentCropActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/cropDetailsAppbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?colorPrimary"
+        app:title="@string/your_land"
+        android:theme="@style/ToolbarTheme" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/cropDetailsAppbar">
+        >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimary"
+            />
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/CropDetailsCard.Border"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@style/TextAppearance.Card.TextView.Title2"
+                    android:text="Crop"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/TextAppearance.Card.TextView.Body.Right"
+                    android:text="Rice"
+                    />
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    style="@style/Widget.MaterialComponents.Button.TextButton"
+                    app:icon="@drawable/ic_chevron_right_24dp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/CropDetailsCard.Border"
+            android:layout_marginTop="-1dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@style/TextAppearance.Card.TextView.Title2"
+                    android:text="Crop Season"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/TextAppearance.Card.TextView.Body.Right"
+                    android:text="Boro Rice"
+                    />
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    style="@style/Widget.MaterialComponents.Button.TextButton"
+                    app:icon="@drawable/ic_chevron_right_24dp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/CropDetailsCard.Border"
+            android:layout_marginTop="-1dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@style/TextAppearance.Card.TextView.Title2"
+                    android:text="Crop Variety"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/TextAppearance.Card.TextView.Body.Right"
+                    android:text="BRRI Dhan 29"
+                    />
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    style="@style/Widget.MaterialComponents.Button.TextButton"
+                    app:icon="@drawable/ic_chevron_right_24dp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/CropDetailsCard.Border"
+            android:layout_marginTop="-1dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@style/TextAppearance.Card.TextView.Title2"
+                    android:text="Yield Goal"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    style="@style/TextAppearance.Card.TextView.Body.Right"
+                    android:text="5 tn / ha"
+                    />
+
+                <com.google.android.material.button.MaterialButton
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    style="@style/Widget.MaterialComponents.Button.TextButton"
+                    app:icon="@drawable/ic_chevron_right_24dp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimary"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="32dp"
+        android:orientation="vertical"
+        >
+
+        <!--<com.google.android.material.button.MaterialButton-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--style="@style/FullWidthButton"-->
+            <!--android:textAppearance="@style/TextAppearance.Card.TextView.Title2"-->
+            <!--android:text="Hello"-->
+            <!--app:icon="@drawable/ic_chevron_right_24dp"-->
+            <!--app:iconGravity="end"-->
+            <!--/>-->
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/FullWidthButton"
+            android:textAppearance="@style/TextAppearance.Card.TextView.Title2"
+            android:text="Fertilizer Recommendation"
+            app:icon="@drawable/ic_chevron_right_24dp"
+            app:iconGravity="end"
+            />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
