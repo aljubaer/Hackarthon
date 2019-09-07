@@ -1,55 +1,48 @@
 Season,Variety,Class,Class_Unique
-Boro rice,BRRI dhan29,1,1
-Boro rice,Binadhan-6,1,1
-Boro rice,BRRI hybrid dhan1,1,1
-Boro rice,BRRI hybrid dhan2,1,1
-Boro rice,BRRI hybrid dhan3,1,1
-Boro rice,BR3,2,2
-Boro rice,BR8,2,2
-Boro rice,BR9,2,2
-Boro rice,BR14,2,2
-Boro rice,BR16,2,2
-Boro rice,BR17,2,2
-Boro rice,BR18,2,2
-Boro rice,BR19,2,2
-Boro rice,BRRI dhan28,2,2
-Boro rice,BRRI dhan45,2,2
-Boro rice,BRRI dhan47,2,2
-Boro rice,BRRI dhan50,2,2
-Boro rice,Binadhan-5,2,2
-Boro rice,Binadhan-8,2,2
-Boro rice,BR1,3,3
-Boro rice,BR2,3,3
-Boro rice,BR7,3,3
-Boro rice,BR15,3,3
-Boro rice,BRRI dhan35,3,3
-Boro rice,BRRI dhan36,3,3
-Boro rice,LIV under Transplanted Culture,4,4
-T. Aus rice,BR1,1,5
-T. Aus rice,BR2,1,5
-T. Aus rice,BR3,1,5
-T. Aus rice,BR7,1,5
-T. Aus rice,BR8,1,5
-T. Aus rice,BR9,1,5
-T. Aus rice,BR14,1,5
-T. Aus rice,BR16,1,5
-T. Aus rice,BR26,1,5
-T. Aus rice,BRRI dhan27,1,5
-T. Aus rice,BRRI dhan48,1,5
-T. Aus rice,Iratom24,1,5
-T. Aus rice,BR6,2,6
-T. Aus rice,BR20,2,6
-T. Aus rice,BR21,2,6
-T. Aus rice,BR24,2,6
-T. Aus rice,BRRI dhan42,2,6
-T. Aus rice,BRRI dhan43,2,6
-B. Aus rice,BR6,1,7
-B. Aus rice,BR20,1,7
-B. Aus rice,BR21,1,7
-B. Aus rice,BR24,1,7
-B. Aus rice,BRRI dhan42,1,7
-B. Aus rice,BRRI dhan43,1,7
-B. Aus rice,Liv under Direct Seeded Culture,2,8
+বোরো ধান,BRRI dhan29,1,1
+বোরো ধান,Binadhan-6,1,1
+বোরো ধান,BRRI hybrid dhan1,1,1
+বোরো ধান,BRRI hybrid dhan2,1,1
+বোরো ধান,BRRI hybrid dhan3,1,1
+বোরো ধান,BR3,2,2
+বোরো ধান,BR8,2,2
+বোরো ধান,BR9,2,2
+বোরো ধান,BR14,2,2
+বোরো ধান,BR16,2,2
+বোরো ধান,BR17,2,2
+বোরো ধান,BR18,2,2
+বোরো ধান,BR19,2োর
+বোরো ধান,BR2,3,3
+বোরো ধান,BR7,3,3
+বোরো ধান,BR15,3,3
+বোরো ধান,BRRI dhan35,3,3
+বোরো ধান,BRRI dhan36,3,3
+বোরো ধান,LIV under Transplanted Culture,4,4
+রোপা আমন,BR1,1,5
+রোপা আমন,BR2,1,5
+রোপা আমন,BR3,1,5
+রোপা আমন,BR7,1,5
+রোপা আমন,BR8,1,5
+রোপা আমন,BR9,1,5
+রোপা আমন,BR14,1,5
+রোপা আমন,BR16,1,5
+রোপা আমন,BR26,1,5
+রোপা আমন,BRRI dhan27,1,5
+রোপা আমন,BRRI dhan48,1,5
+রোপা আমন,Iratom24,1,5
+রোপা আমন,BR6,2,6
+রোপা আমন,BR20,2,6
+রোপা আমন,BR21,2,6
+রোপা আমন,BR24,2,6
+রোপা আমন,BRRI dhan42,2,6
+রোপা আমন,BRRI dhan43,2,6
+বোরো আমন,BR6,1,7
+বোরো আমন,BR20,1,7
+বোরো আমন,BR21,1,7
+বোরো আমন,BR24,1,7
+বোরো আমন,BRRI dhan42,1,7
+বোরো আমন,BRRI dhan43,1,7
+বোরো আমন,Liv under Direct Seeded Culture,2,8
 T. Aman rice,BR4,1,9
 T. Aman rice,BR10,1,9
 T. Aman rice,BR11,1,9
