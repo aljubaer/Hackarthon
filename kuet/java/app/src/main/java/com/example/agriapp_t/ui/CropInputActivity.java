@@ -35,8 +35,6 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
         testList.add("seven");
 
     }
-
-
     
     public void onInputCropListener (View view) {
         new CustomListDialog(this, testList, mAlertDialog, this);
