@@ -12,7 +12,7 @@ import com.example.agriapp_t.data.repository.CropRepository;
 
 public class StartUpActivity extends AppCompatActivity {
 
-    CropRepository cropRepository;
+    public static CropRepository cropRepository;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
