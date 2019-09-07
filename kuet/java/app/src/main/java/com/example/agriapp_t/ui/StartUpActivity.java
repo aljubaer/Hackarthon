@@ -37,7 +37,4 @@ public class StartUpActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-
-
-
 }
