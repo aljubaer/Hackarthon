@@ -12,8 +12,8 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
@@ -52,7 +52,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/required_dose"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/required_dose_urea"
@@ -62,7 +62,7 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
 
@@ -81,7 +81,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/cost"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/cost_urea"
@@ -91,15 +91,15 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
             </LinearLayout>
 
-        </androidx.cardview.widget.CardView>
+        </com.google.android.material.card.MaterialCardView>
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
@@ -139,7 +139,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/required_dose"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/required_dose_tsp"
@@ -149,7 +149,7 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
 
@@ -168,7 +168,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/cost"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/cost_tsp"
@@ -178,15 +178,15 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
             </LinearLayout>
 
-        </androidx.cardview.widget.CardView>
+        </com.google.android.material.card.MaterialCardView>
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
@@ -226,7 +226,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/required_dose"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/required_dose_mop"
@@ -236,7 +236,7 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
 
@@ -255,7 +255,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/cost"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/cost_mop"
@@ -265,15 +265,15 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
             </LinearLayout>
 
-        </androidx.cardview.widget.CardView>
+        </com.google.android.material.card.MaterialCardView>
 
-        <androidx.cardview.widget.CardView
-            android:layout_width="0dp"
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
@@ -313,7 +313,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/required_dose"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/required_dose_gypsum"
@@ -323,7 +323,7 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
 
@@ -342,7 +342,7 @@
                         android:paddingRight="@dimen/default_padding_top"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="@string/cost"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                     <TextView
                         android:id="@+id/cost_gypsum"
@@ -352,12 +352,12 @@
                         android:paddingTop="@dimen/bottom_ellipsis_height"
                         android:paddingBottom="@dimen/bottom_ellipsis_height"
                         android:text="TextView"
-                        android:textSize="24sp" />
+                        android:textSize="18sp" />
 
                 </LinearLayout>
             </LinearLayout>
 
-        </androidx.cardview.widget.CardView>
+        </com.google.android.material.card.MaterialCardView>
 
     </LinearLayout>
 
