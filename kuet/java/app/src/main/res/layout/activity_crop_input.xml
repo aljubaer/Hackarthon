@@ -8,9 +8,11 @@
     tools:context=".ui.CropInputActivity">
 
     <Button
+        android:layout_marginTop="100dp"
         android:id="@+id/input_crop"
-        android:layout_width="130dp"
+        android:layout_width="match_parent"
         android:layout_height="86dp"
+        style="@style/FullWidthTextButton"
         android:onClick="onInputCropListener"
         android:text="@string/input_crop"
         />
@@ -57,8 +59,9 @@
 
     <Button
         android:id="@+id/input_texture"
-        android:layout_width="129dp"
+        android:layout_width="match_parent"
         android:layout_height="85dp"
+        style="@style/FullWidthTextButton"
         android:onClick="onInputTextureListener"
         android:text="texture"
         />
@@ -106,7 +109,8 @@
 
     <Button
         android:id="@+id/inputNext"
-        android:layout_width="129dp"
+        android:layout_marginTop="200dp"
+        android:layout_width="match_parent"
         android:layout_height="85dp"
         android:onClick="onInputCompleteListener"
         android:text="Next"

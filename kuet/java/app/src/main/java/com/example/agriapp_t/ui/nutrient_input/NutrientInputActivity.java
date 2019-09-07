@@ -2,6 +2,7 @@ package com.example.agriapp_t.ui.nutrient_input;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RadioButton;
@@ -28,7 +29,8 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
 
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
-            cropClass = 1;
+            cropClass = bundle.getInt("crop_class");
+            System.out.println(cropClass);
             textureClass = bundle.getString("texture_class");
         }
     }
@@ -181,6 +183,15 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
 //        NitrogenAmount.setText(nitrogenStatus);
 //
 //    }
+
+    public void onDone(View view){
+        Intent intent = new Intent(NutrientInputActivity.this, NutrientResultActivity.class);
+        intent.putExtra("rn", requiredN);
+        intent.putExtra("rp", requiredP);
+        intent.putExtra("rk", requiredK);
+        intent.putExtra("rs", requiredS);
+        startActivity(intent);
+    }
 
 
 

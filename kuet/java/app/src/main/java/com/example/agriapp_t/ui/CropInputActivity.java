@@ -10,6 +10,7 @@ import android.widget.Button;
 
 import com.example.agriapp_t.R;
 import com.example.agriapp_t.ui.custom_components.CustomListDialog;
+import com.example.agriapp_t.ui.custom_listener.OnCropClassDataFetch;
 import com.example.agriapp_t.ui.custom_listener.OnDataFetchListener;
 import com.example.agriapp_t.ui.custom_listener.OnListItemClickListener;
 import com.example.agriapp_t.ui.nutrient_input.NutrientInputActivity;
@@ -17,7 +18,7 @@ import com.example.agriapp_t.ui.nutrient_input.NutrientInputActivity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CropInputActivity extends AppCompatActivity implements OnListItemClickListener, OnDataFetchListener {
+public class CropInputActivity extends AppCompatActivity implements OnListItemClickListener, OnDataFetchListener, OnCropClassDataFetch {
 
     public Button btnInputCrop, btnInputTexture;
     private ArrayList<String> cropList = new ArrayList<>();
@@ -25,6 +26,7 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
     private AlertDialog mAlertDialog = null;
     private Boolean isDataFetched = false;
     private String crop, texture;
+    int cropClass = 1;
 
 
     @Override
@@ -49,8 +51,9 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
     }
     
     public void onInputCropListener (View view) {
-        if (isDataFetched)
+        if (isDataFetched){
             new CustomListDialog(this, cropList, mAlertDialog, this, 1);
+        }
     }
 
     public void onInputTextureListener (View view) {
@@ -60,7 +63,7 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
 
     public void onInputCompleteListener (View view) {
         Intent intent = new Intent(CropInputActivity.this, NutrientInputActivity.class);
-        intent.putExtra("crop_class", 1);
+        intent.putExtra("crop_class", cropClass);
         intent.putExtra("texture_class", "A");
         startActivity(intent);
     }
@@ -71,6 +74,7 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
             btnInputCrop.setText(cropList.get(position));
             crop = cropList.get(position);
             System.out.println(crop);
+            StartUpActivity.cropRepository.getCropClass(crop, this);
         }
         else if (type == 2){
             btnInputTexture.setText(textureList.get(position));
@@ -87,5 +91,10 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
         else if (type == 2)
             textureList = (ArrayList<String>) fetchedData;
 
+    }
+
+    @Override
+    public void onDataFetch(int uclass) {
+        cropClass = uclass;
     }
 }
