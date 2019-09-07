@@ -10,7 +10,7 @@
     <Button
         android:id="@+id/input_crop"
         android:layout_width="130dp"
-        android:layout_height="85dp"
+        android:layout_height="86dp"
         android:onClick="onInputCropListener"
         android:text="@string/input_crop"
         />
