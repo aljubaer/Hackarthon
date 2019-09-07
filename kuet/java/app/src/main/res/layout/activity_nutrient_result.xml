@@ -359,8 +359,23 @@
 
         </com.google.android.material.card.MaterialCardView>
 
-    </LinearLayout>
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onShow"
+            android:layout_marginTop="@android:dimen/notification_large_icon_height"
+            android:text="Show Nearest Fertilizer shop" />
 
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onDirection"
+            android:layout_marginTop="@android:dimen/notification_large_icon_height"
+            android:text="Show Nearest Fertilizer shop" />
+
+    </LinearLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
