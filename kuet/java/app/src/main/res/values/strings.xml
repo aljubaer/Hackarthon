@@ -13,4 +13,10 @@
     <string name="low">Low</string>
     <string name="medium">Medium</string>
     <string name="High">High</string>
+    <string name="urea">Urea</string>
+    <string name="tsp">TSP</string>
+    <string name="mop">MoP</string>
+    <string name="gypsum">Gypsum</string>
+    <string name="required_dose">Required dose :</string>
+    <string name="cost">Cost :</string>
 </resources>

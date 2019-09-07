@@ -11,6 +11,7 @@ import com.example.agriapp_t.R;
 import com.example.agriapp_t.data.database.Database;
 import com.example.agriapp_t.data.repository.CropRepository;
 import com.example.agriapp_t.ui.nutrient_input.NutrientInputActivity;
+import com.example.agriapp_t.ui.nutrient_input.NutrientResultActivity;
 
 public class StartUpActivity extends AppCompatActivity {
 
@@ -36,5 +37,4 @@ public class StartUpActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    
 }
