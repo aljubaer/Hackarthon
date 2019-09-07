@@ -14,6 +14,9 @@ public interface CropVarietyDao {
     @Insert
     void insert (CropVariety cropVariety);
 
+    @Query("SELECT DISTINCT season FROM crop_variety")
+    List<String> getAllCropSeason();
+
     @Query("SELECT class_unique FROM crop_variety " +
             "WHERE season = :season " +
             "AND variety = :variety ")

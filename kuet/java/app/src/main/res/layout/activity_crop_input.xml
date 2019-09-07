@@ -1,21 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".ui.CropInputActivity">
 
     <Button
         android:id="@+id/input_crop"
         android:layout_width="129dp"
         android:layout_height="85dp"
-        android:text="@string/input_crop"
         android:onClick="onInputCropListener"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.345" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:text="@string/input_crop"
+        />
+
+<!--    <com.google.android.material.card.MaterialCardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:onClick="onInputTextureListener"-->
+<!--        style="@style/CropDetailsCard.Border"-->
+<!--        >-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:padding="16dp"-->
+<!--            android:orientation="horizontal"-->
+<!--            tools:layout_editor_absoluteX="-4dp"-->
+<!--            tools:layout_editor_absoluteY="210dp">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Crop"-->
+<!--                android:textAppearance="@style/TextAppearance.Card.TextView.Title2" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/input_texture1"-->
+<!--                style="@style/TextAppearance.Card.TextView.Body.Right"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Rice" />-->
+
+<!--            <com.google.android.material.button.MaterialButton-->
+<!--                style="@style/Widget.MaterialComponents.Button.TextButton"-->
+<!--                android:layout_width="32dp"-->
+<!--                android:layout_height="32dp"-->
+<!--                app:icon="@drawable/ic_chevron_right_24dp" />-->
+
+<!--        </LinearLayout>-->
+
+<!--    </com.google.android.material.card.MaterialCardView>-->
+
+    <Button
+        android:id="@+id/input_texture"
+        android:layout_width="129dp"
+        android:layout_height="85dp"
+        android:onClick="onInputTextureListener"
+        android:text="texture"
+        />
+
+<!--    <com.google.android.material.card.MaterialCardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:onClick="onInputCropListener"-->
+<!--        style="@style/CropDetailsCard.Border"-->
+<!--        >-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:padding="16dp"-->
+<!--            android:orientation="horizontal"-->
+<!--            tools:layout_editor_absoluteX="-4dp"-->
+<!--            tools:layout_editor_absoluteY="210dp">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Texture"-->
+<!--                android:textAppearance="@style/TextAppearance.Card.TextView.Title2" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/input_crop1"-->
+<!--                style="@style/TextAppearance.Card.TextView.Body.Right"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Rice" />-->
+
+<!--            <com.google.android.material.button.MaterialButton-->
+<!--                style="@style/Widget.MaterialComponents.Button.TextButton"-->
+<!--                android:layout_width="32dp"-->
+<!--                android:layout_height="32dp"-->
+<!--                app:icon="@drawable/ic_chevron_right_24dp" />-->
+
+<!--        </LinearLayout>-->
+
+<!--    </com.google.android.material.card.MaterialCardView>-->
+
+
+    <Button
+        android:id="@+id/inputNext"
+        android:layout_width="129dp"
+        android:layout_height="85dp"
+        android:onClick="onInputCompleteListener"
+        android:text="Next"
+        />
+
+
+</LinearLayout>
