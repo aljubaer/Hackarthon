@@ -18,13 +18,13 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
     String nitrogenStatus;
     int cropClass = 1;
     String textureClass;
-    double requiredN;
+    double requiredN, requiredP, requiredK, requiredS;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_nutrient_input);
-        NitrogenAmount = findViewById(R.id.nitrogen_amount);
+        //NitrogenAmount = findViewById(R.id.nitrogen_amount);
 
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
@@ -51,11 +51,85 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
                     nitrogenStatus = "High";
                 break;
         }
-        NitrogenAmount.setText(nitrogenStatus);
+//        NitrogenAmount.setText(nitrogenStatus);
 
         StartUpActivity.cropRepository.getNutrientRecommendation(1, nitrogenStatus, "N", this);
 
     }
+
+    public void onRadioButtonClickedP(View view){
+        boolean checked = ((RadioButton) view).isChecked();
+
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.radio_low_p:
+                if (checked)
+                    nitrogenStatus = "Low";
+                break;
+            case R.id.radio_medium_p:
+                if (checked)
+                    nitrogenStatus = "Medium";
+                break;
+            case R.id.radio_high_p:
+                if (checked)
+                    nitrogenStatus = "High";
+                break;
+        }
+        //NitrogenAmount.setText(nitrogenStatus);
+
+        StartUpActivity.cropRepository.getNutrientRecommendation(1, nitrogenStatus, "P", this);
+
+    }
+
+    public void onRadioButtonClickedK(View view){
+        boolean checked = ((RadioButton) view).isChecked();
+
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.radio_low_k:
+                if (checked)
+                    nitrogenStatus = "Low";
+                break;
+            case R.id.radio_medium_k:
+                if (checked)
+                    nitrogenStatus = "Medium";
+                break;
+            case R.id.radio_high_k:
+                if (checked)
+                    nitrogenStatus = "High";
+                break;
+        }
+        //NitrogenAmount.setText(nitrogenStatus);
+
+        StartUpActivity.cropRepository.getNutrientRecommendation(1, nitrogenStatus, "K", this);
+
+    }
+
+    public void onRadioButtonClickedS(View view){
+        boolean checked = ((RadioButton) view).isChecked();
+
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.radio_low_s:
+                if (checked)
+                    nitrogenStatus = "Low";
+                break;
+            case R.id.radio_medium_s:
+                if (checked)
+                    nitrogenStatus = "Medium";
+                break;
+            case R.id.radio_high_s:
+                if (checked)
+                    nitrogenStatus = "High";
+                break;
+        }
+        //NitrogenAmount.setText(nitrogenStatus);
+
+        StartUpActivity.cropRepository.getNutrientRecommendation(1, nitrogenStatus, "S", this);
+
+    }
+
+
 
     @Override
     public void onAfterDataFetched(double uf, double ci, String nutrient) {
@@ -64,6 +138,24 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
             if (ci < 0.000001) requiredN = 0.0;
             requiredN = uf - (ci / 2.0);
             System.out.println(requiredN);
+        }
+
+        if (nutrient.equals("P")){
+            if (ci < 0.000001) requiredP = 0.0;
+            requiredP = uf - (ci / 2.0);
+            System.out.println(requiredP);
+        }
+
+        if (nutrient.equals("K")){
+            if (ci < 0.000001) requiredK = 0.0;
+            requiredK = uf - (ci / 2.0);
+            System.out.println(requiredK);
+        }
+
+        if (nutrient.equals("S")){
+            if (ci < 0.000001) requiredS = 0.0;
+            requiredS = uf - (ci / 2.0);
+            System.out.println(requiredS);
         }
 
     }

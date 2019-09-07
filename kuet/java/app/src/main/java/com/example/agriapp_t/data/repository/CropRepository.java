@@ -57,8 +57,7 @@ public class CropRepository {
         });
     }
 
-    public void getNutrientRecommendation (int uniqueId, String status, String nutrient, OnNutrientDataFetched dataFetched)
-    {
+    public void getNutrientRecommendation (int uniqueId, String status, String nutrient, OnNutrientDataFetched dataFetched) {
         Executors.newSingleThreadExecutor().execute(new Runnable() {
             @Override
             public void run() {
