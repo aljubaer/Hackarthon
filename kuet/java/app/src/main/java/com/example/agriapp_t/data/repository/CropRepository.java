@@ -8,6 +8,7 @@ import com.example.agriapp_t.data.dao.CropDao;
 import com.example.agriapp_t.data.database.Database;
 import com.example.agriapp_t.data.model.Crop;
 import com.example.agriapp_t.data.model.table.SoilAnalysisTable;
+import com.example.agriapp_t.ui.custom_listener.OnCropClassDataFetch;
 import com.example.agriapp_t.ui.custom_listener.OnDataFetchListener;
 import com.example.agriapp_t.ui.custom_listener.OnNutrientDataFetched;
 
@@ -69,6 +70,18 @@ public class CropRepository {
             }
         });
     }
+
+    public void getCropClass (String crop, OnCropClassDataFetch dataFetch) {
+        Executors.newSingleThreadExecutor().execute(new Runnable() {
+            @Override
+            public void run() {
+                List<Integer> data = database.cropVarietyDao().getCropClass(crop);
+
+                dataFetch.onDataFetch(data.get(0));
+            }
+        });
+    }
+
 //    public void insert (Crop crop) {
 //        new InsertAsyncTask(cropDao).execute(crop);
 //    }

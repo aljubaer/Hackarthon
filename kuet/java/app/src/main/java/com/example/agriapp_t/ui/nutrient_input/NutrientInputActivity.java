@@ -28,7 +28,8 @@ public class NutrientInputActivity extends AppCompatActivity implements OnNutrie
 
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
-            cropClass = 1;
+            cropClass = bundle.getInt("crop_class");
+            System.out.println(cropClass);
             textureClass = bundle.getString("texture_class");
         }
     }
