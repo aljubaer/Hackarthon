@@ -7,7 +7,9 @@ import android.os.AsyncTask;
 import com.example.agriapp_t.data.dao.CropDao;
 import com.example.agriapp_t.data.database.Database;
 import com.example.agriapp_t.data.model.Crop;
+import com.example.agriapp_t.data.model.table.SoilAnalysisTable;
 import com.example.agriapp_t.ui.custom_listener.OnDataFetchListener;
+import com.example.agriapp_t.ui.custom_listener.OnNutrientDataFetched;
 
 import java.util.List;
 import java.util.concurrent.Executors;
@@ -55,6 +57,19 @@ public class CropRepository {
         });
     }
 
+    public void getNutrientRecommendation (int uniqueId, String status, String nutrient, OnNutrientDataFetched dataFetched)
+    {
+        Executors.newSingleThreadExecutor().execute(new Runnable() {
+            @Override
+            public void run() {
+                SoilAnalysisTable analysisTable = database.soilAnalysisDao()
+                        .getAnalysisInterpretationByTestClass(uniqueId, status, nutrient);
+                System.out.println(analysisTable.toString());
+                System.out.println(analysisTable.getAnalysisNutrientInterval() + analysisTable.getAnalysisNutrientUpperLimit());
+                dataFetched.onAfterDataFetched(analysisTable.getAnalysisNutrientUpperLimit(), analysisTable.getAnalysisNutrientInterval(), nutrient);
+            }
+        });
+    }
 //    public void insert (Crop crop) {
 //        new InsertAsyncTask(cropDao).execute(crop);
 //    }
