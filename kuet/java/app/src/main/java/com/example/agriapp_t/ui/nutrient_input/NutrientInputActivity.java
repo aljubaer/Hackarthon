@@ -36,10 +36,10 @@ public class NutrientInputActivity extends AppCompatActivity {
                     break;
             case R.id.radio_high_nitrogen:
                 if (checked)
-                    nitrogenAmountText = "medium";
+                    nitrogenAmountText = "high";
                 break;
         }
-        NitrogenAmount.setText("low");
+        NitrogenAmount.setText(nitrogenAmountText);
 
     }
 }

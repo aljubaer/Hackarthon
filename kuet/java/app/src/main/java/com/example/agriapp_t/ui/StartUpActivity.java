@@ -30,10 +30,6 @@ public class StartUpActivity extends AppCompatActivity {
         cropRepository.test();
     }
 
-    public void onNutration(View view){
-        Intent intent = new Intent(this, NutrientInputActivity.class);
-        startActivity(intent);
-    }
 
 
 }
