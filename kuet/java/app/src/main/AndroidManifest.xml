@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.CropInputActivity"></activity>
+        <activity android:name=".ui.nutrient_input.NutrientInputActivity"></activity>
+        <activity android:name=".ui.CropInputActivity" />
         <activity android:name=".ui.StartUpActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -10,6 +10,7 @@ import android.widget.Button;
 import com.example.agriapp_t.R;
 import com.example.agriapp_t.data.database.Database;
 import com.example.agriapp_t.data.repository.CropRepository;
+import com.example.agriapp_t.ui.nutrient_input.NutrientInputActivity;
 
 public class StartUpActivity extends AppCompatActivity {
 
@@ -28,6 +29,7 @@ public class StartUpActivity extends AppCompatActivity {
     public void onTest (View view) {
         cropRepository.test();
     }
+
 
     public void onTest2 (View view) {
         Intent intent = new Intent(StartUpActivity.this, CropInputActivity.class);

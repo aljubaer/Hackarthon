@@ -8,4 +8,9 @@
     <string name="your_land">Your Land</string>
     <string name="home">Home</string>
     <string name="input_crop">Input Crop</string>
+    <string name="select_nitrogen_percentage">Select Nitrogen Percentage</string>
+    <string name="nitrogen_amount">Nitrogen amount</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="High">High</string>
 </resources>
