@@ -58,7 +58,6 @@ public class NutrientResultActivity extends AppCompatActivity {
 
         Intent intent = new Intent(Intent.ACTION_VIEW, path);
         intent.setPackage("com.google.android.apps.maps");
-        //startActivity(intent);
         try {
             startActivity(intent);
         } catch (ActivityNotFoundException ex) {
@@ -73,9 +72,7 @@ public class NutrientResultActivity extends AppCompatActivity {
 
     public void onDirection(View view){
 
-        //"http://maps.google.com/maps?saddr=20.344,34.34&daddr=22.9586882,88.4502594"
-        //String url = "https://www.google.com/maps/dir/?api=1&origin=22.8931175,89.3712238?q=fertilizer";
-        String url = "http://maps.google.com/maps?saddr=20.344,34.34&daddr=22.9586882,88.4502594";
+        String url = "http://maps.google.com/maps?saddr=22.8986812,89.502077&daddr=22.9087157,88.6111788";
 
         Uri path = Uri.parse(url);
 

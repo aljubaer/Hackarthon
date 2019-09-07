@@ -368,7 +368,7 @@
                 android:layout_height="wrap_content"
                 android:onClick="onShow"
                 android:layout_marginTop="@android:dimen/notification_large_icon_height"
-                android:text="Show Nearest Fertilizer shop" />
+                android:text="Show Nearest Fertilizer Shop" />
 
             <Button
                 android:id="@+id/button3"
@@ -376,7 +376,7 @@
                 android:layout_height="wrap_content"
                 android:onClick="onDirection"
                 android:layout_marginTop="@android:dimen/notification_large_icon_height"
-                android:text="Show Nearest Fertilizer shop" />
+                android:text="Nearest Fertilizer Shop Direction" />
 
         </LinearLayout>
     </ScrollView>
