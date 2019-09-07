@@ -45,7 +45,7 @@ public class CropInputActivity extends AppCompatActivity implements OnListItemCl
         StartUpActivity.cropRepository.getAllTexture(this);
 
     }
-
+    
     public void onInputCropListener (View view) {
         if (isDataFetched)
             new CustomListDialog(this, cropList, mAlertDialog, this, 1);
