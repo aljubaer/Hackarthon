@@ -18,6 +18,9 @@ public interface SoilTextureDao {
 //            "WHERE texture = :texture AND land_type = :cropLandType")
 //    public String getTextureClassByTexture(String texture, String cropLandType);
 
+    @Query("SELECT texture FROM texture")
+    List<String> getAllTexture ();
+
     @Insert
     void insert (SoilTextureTable soilTextureTable);
 }

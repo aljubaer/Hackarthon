@@ -31,5 +31,9 @@ public class StartUpActivity extends AppCompatActivity {
     }
 
 
+    public void onTest2 (View view) {
+        Intent intent = new Intent(StartUpActivity.this, CropInputActivity.class);
+        startActivity(intent);
+    }
 
 }

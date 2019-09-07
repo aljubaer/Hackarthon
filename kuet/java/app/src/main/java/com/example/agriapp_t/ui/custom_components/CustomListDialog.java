@@ -24,13 +24,15 @@ public class CustomListDialog {
     private int textLength = 0;
     private String selectedText = "";
     private OnListItemClickListener itemClickListener;
+    int type;
 
 
-    public CustomListDialog(Context context, ArrayList<String> values, AlertDialog dialog, OnListItemClickListener itemClickListener) {
+    public CustomListDialog(Context context, ArrayList<String> values, AlertDialog dialog, OnListItemClickListener itemClickListener, int type) {
         this.dialog = dialog;
         this.context = context;
         this.values = values;
         this.itemClickListener = itemClickListener;
+        this.type = type;
         createView();
     }
 
@@ -53,7 +55,7 @@ public class CustomListDialog {
 //                                                    selectedText = currentValueList.get(position);
 //                                                else selectedText = values.get(position);
 //                                                textView.setText(selectedText);
-                                                itemClickListener.onItemClick(position);
+                                                itemClickListener.onItemClick(position, type);
                                                 dialog.dismiss();
                                             }
                                         }
