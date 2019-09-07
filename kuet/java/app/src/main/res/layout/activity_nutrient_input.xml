@@ -66,7 +66,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="48dp"
             android:layout_marginEnd="8dp"
-            android:text="@string/select_nitrogen_percentage"
+            android:text="Select Phosphorus (ug/u)"
             android:textSize="24sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.06"
@@ -112,7 +112,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="48dp"
             android:layout_marginEnd="8dp"
-            android:text="@string/select_nitrogen_percentage"
+            android:text="Select Potasium"
             android:textSize="24sp"
             />
 
@@ -154,7 +154,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="48dp"
             android:layout_marginEnd="8dp"
-            android:text="@string/select_nitrogen_percentage"
+            android:text="Select Sulpher"
             android:textSize="24sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.06"
@@ -191,6 +191,15 @@
 
 
         </RadioGroup>
+
+
+            <Button
+                android:id="@+id/inputDone"
+                android:layout_width="129dp"
+                android:layout_height="85dp"
+                android:onClick="onDone"
+                android:text="Next"
+                />
 
 
         </LinearLayout>

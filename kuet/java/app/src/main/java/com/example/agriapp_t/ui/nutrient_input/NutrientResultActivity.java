@@ -11,6 +11,8 @@ public class NutrientResultActivity extends AppCompatActivity {
 
     TextView Cost_urea,Cost_tsp,Cost_mop,Cost_gypsum, Required_dose_urea,Required_dose_tsp,Required_dose_mop,Required_dose_gupsum;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,6 +27,21 @@ public class NutrientResultActivity extends AppCompatActivity {
         Required_dose_tsp = findViewById(R.id.required_dose_tsp);
         Required_dose_mop = findViewById(R.id.required_dose_mop);
         Required_dose_gupsum = findViewById(R.id.required_dose_gypsum);
+
+        Bundle bundle = getIntent().getExtras();
+
+        if (bundle != null) {
+            Required_dose_urea.setText(String.valueOf( bundle.getDouble("rn") * .46) + " kg/ha");
+            Required_dose_tsp.setText(String.valueOf( bundle.getDouble("rp") *0.2)  + " kg/ha");
+            Required_dose_mop.setText(String.valueOf( bundle.getDouble("rk") * 0.5)  + " kg/ha");
+            Required_dose_gupsum.setText(String.valueOf( bundle.getDouble("rs") * .18)  + " kg/ha");
+
+            Cost_urea.setText(String.valueOf( bundle.getDouble("rn") * 0.46 *20.0)  + " tk");
+            Cost_tsp.setText(String.valueOf( bundle.getDouble("rp") *0.2 * 22.0 ) + " tk");
+            Cost_mop.setText(String.valueOf( bundle.getDouble("rk") * .5 * 17.0) + " tk");
+            Cost_gypsum.setText(String.valueOf( bundle.getDouble("rs") * .18 * 12.0) + " tk");
+
+        }
 
 
     }
