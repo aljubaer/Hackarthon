@@ -72,7 +72,7 @@ public class NutrientResultActivity extends AppCompatActivity {
 
     public void onDirection(View view){
 
-        String url = "http://maps.google.com/maps?saddr=22.8986812,89.502077&daddr=22.9087157,88.6111788";
+        String url = "http://maps.google.com/maps?saddr=22.8986812,89.502077&daddr=22.818955,89.563577";
 
         Uri path = Uri.parse(url);
 
